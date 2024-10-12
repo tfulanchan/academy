@@ -1,0 +1,231 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+ 
+ /* You can override the default Infima variables here. */
+ @media (max-width: 767px) {
+  .mendable-search {
+    width: 200px;
+  }
+}
+@media (max-width: 500px) {
+  .mendable-search {
+    width: 150px;
+  }
+}
+@media (max-width: 380px) {
+  .mendable-search {
+    width: 140px;
+  }
+}
+ @layer base {
+  @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap');
+
+   h1 {
+     font-family: 'Source Sans 3', 'Readex Pro';
+     font-weight: bold;
+     font-size: 2.5rem;
+   }
+ 
+   h2 {
+     /* font-family: 'Alimama ShuHeiTi Bold'; */
+     font-family: 'Source Sans 3', 'Readex Pro';
+     font-size: 2.1rem;
+   }
+ 
+   h3 {
+     /* font-family: 'Alimama ShuHeiTi Bold'; */
+     font-family: 'Source Sans 3', 'Public Sans', 'Readex Pro';
+     font-size: 1.7rem;
+   }
+ 
+   h4 {
+     /* font-family: 'Alimama ShuHeiTi Bold'; */
+     font-family: 'Source Sans 3', 'Public Sans', 'Readex Pro';
+     font-size: 1.2rem;
+   }
+ 
+  a {
+    /* font-family: 'Alimama ShuHeiTi Bold'; */
+    font-family: 'Source Sans 3', 'Public Sans', 'Readex Pro';
+    font-size: 1rem;
+  }
+ 
+   div,
+   p,
+   li,
+   code,
+   b {
+     font-family: 'Source Sans 3', 'Public Sans', 'Readex Pro';
+   }
+ 
+  blockquote {
+    margin-bottom: 1.5rem;
+  }
+ 
+   /* index page list style begin */
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul {
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(4)>ul>li:nth-child(2)>ul {
+     margin-left: 2rem;
+     list-style-type: square;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul {
+     list-style-type: disc;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(4)>ul>li {
+     list-style-type: circle;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(4)>ul>li:nth-child(3) {
+     list-style-type: circle;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(4)>ul>li:nth-child(3)>ul>li {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(4)>ul>li:nth-child(5) {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(4)>ul>li:nth-child(4)>ul>li {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(5)>ul>li {
+     list-style-type: circle;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(5)>ul>li:nth-child(1)>ul>li {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(5)>ul>li:nth-child(2)>ul {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(5)>ul>li:nth-child(3)>ul {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(5)>ul>li:nth-child(4)>ul {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(5)>ul>li:nth-child(15)>ul>li {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(6)>ul>li {
+     list-style-type: circle;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(6)>ul>li:nth-child(1)>ul>li {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(6)>ul>li:nth-child(2)>ul>li {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(6)>ul>li:nth-child(3)>ul>li {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+ 
+   #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul>li:nth-child(6)>ul>li:nth-child(5)>ul>li {
+     list-style-type: square;
+     margin-left: 2rem;
+   }
+   /* index page list style end */
+ 
+   #__docusaurus_skipToContent_fallback > div > main > div > div > div > div > article > div > ol > li > p {
+     position: flex
+   }
+ 
+   
+   .footnote-ref {
+     font-size: 0.5rem;
+   }
+ 
+   svg {
+     display: inline;
+   }
+ 
+   ol {
+     list-style-type: decimal;
+     margin-left: 2rem;
+   }
+ 
+   .Alimama {
+     font-family: 'Alimama ShuHeiTi Bold';
+   }
+ 
+   .bann {
+     /* max-height: 119px;
+     max-width: 514px;  */
+     /* display: flex;
+     position: relative;  */
+     /* margin-top: 0.25rem;  */
+     /* align-items: center;  */
+     /* width: 100%;  */
+   }
+ 
+   .guides-top-header {
+     @apply ml-6 mr-2 rounded-md border-secondary-700;
+     border-width: 1px;
+   }
+ 
+   :root {
+     --ifm-color-primary: #58c4dc;
+     --ifm-color-primary-dark: #29784c;
+     --ifm-color-primary-darker: #277148;
+     --ifm-color-primary-darkest: #205d3b;
+     --ifm-color-primary-light: #33925d;
+     --ifm-color-primary-lighter: #359962;
+     --ifm-color-primary-lightest: #3cad6e;
+     --ifm-code-font-size: 95%;
+     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+   }
+ 
+   /* For readability concerns, you should choose a lighter palette in dark mode. */
+   [data-theme='dark'] {
+     --ifm-color-primary: #58c4dc;
+     p {
+      color: #f6f7f9;
+     }
+     --ifm-color-primary-dark: #21af90;
+     --ifm-color-primary-darker: #1fa588;
+     --ifm-color-primary-darkest: #1a8870;
+     --ifm-color-primary-light: #29d5b0;
+     --ifm-color-primary-lighter: #32d8b4;
+     --ifm-color-primary-lightest: #4fddbf;
+     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+   }
+ }
