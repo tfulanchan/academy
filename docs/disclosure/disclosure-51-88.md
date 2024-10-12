@@ -724,9 +724,9 @@ The fund manager shall include in the annual report all violations of the invest
 
 The fund manager must prepare the annual reports that includes (audited financial statement) short-form annual reports and interim reports in accordance with the requirements of appendix 5 of these regulations and must be provided by the fund manager to unitholders on request and without charge.
 
-Annual reports must be made available to the public no later than (70) days from the end of the period to which the report relates in such locations and by such means as specified in the terms and conditions and information memorandum as well as in the fund manager’s website and on the Saudi Exchange’s website (Saudi Tadawul).
+Annual reports must be made available to the public no later than `70 days` from the end of the period to which the report relates in such locations and by such means as specified in the terms and conditions and information memorandum as well as in the fund manager’s website and on the Saudi Exchange’s website (Saudi Tadawul).
 
-The interim reports must be prepared and made available to the public within (35) days from the end of the period to which the report relates in such locations and by such means as specified in the terms and conditions, the information memorandum as well as in the fund manager website and on the Saudi Exchange’s website (Saudi Tadawul). A feeder fund or fund of funds must make its fund reports available within (21) days after the release of the fund reports of the fund(s) in which it invests.
+The interim reports must be prepared and made available to the public within `35 days` from the end of the period to which the report relates in such locations and by such means as specified in the terms and conditions, the information memorandum as well as in the fund manager website and on the Saudi Exchange’s website (Saudi Tadawul). A feeder fund or fund of funds must make its fund reports available within (21) days after the release of the fund reports of the fund(s) in which it invests.
 
 The fund manager shall make available for inspection by unitholders the current net asset value of the public funds to which it is fund manager free of charge, and all historical net asset value at the registered offices of the fund manager.
 
@@ -971,7 +971,7 @@ Answer reference: Section 3-5
     <ul>
     <li>the issuer must be a joint stock company</li>
     <li>a prospectus</li>
-    <li>must have practised for at least the previous three fiscal years</li>
+    <li>must have practised the main activity by itself for at least the previous three fiscal years</li>
     <li>provide audited financial statements for at least the previous three fiscal years in accordance to standards of the Saudi Organization for Chartered and Professional Accountants</li>
     <li>the latest reviewed preliminary financial statements submitted to the authority must not have ended more than 6 months from the date of approval of the application for registration and offering of securities</li>
     </ul>
