@@ -2,6 +2,25 @@
 sidebar_position: 1
 ---
 
+[The Instructions for Shariah Governance in Capital Market Institutions](https://cma.org.sa/en/RulesRegulations/Regulations/Pages/details.aspx?code=11)
+
+[Implementing Regulation of the Companies Law for Listed Joint Stock Companies](https://cma.org.sa/en/RulesRegulations/Regulations/Pages/details.aspx?code=15)
+
+[Merger and Acquisition Regulations](https://cma.org.sa/en/RulesRegulations/Regulations/Pages/details.aspx?code=30)
+
+[Instructions on the Price Stabilisation Mechanism in IPOs](https://cma.org.sa/en/RulesRegulations/Regulations/Pages/details.aspx?code=7)
+
+[Short Selling Regulations](https://www.saudiexchange.sa/wps/wcm/connect/62512544-afd5-43d6-8c53-c3969567dbd0/Short+Selling+Regulations.pdf?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=ROOTWORKSPACE-62512544-afd5-43d6-8c53-c3969567dbd0-oV2AXEA)
+
+[Exchange Traded Funds](https://www.saudiexchange.sa/wps/portal/saudiexchange/trading/market-services/funds)
+
+[Tradable Rights - Tadawul](https://www.saudiexchange.sa/wps/portal/saudiexchange/rules-guidance/capital-market-overview/tradable-rights#:~:text=indicative%20value%20of%20a%20right,-The%20Right's%20indicative&text=For%20example%2C%20if%20the%20price,offering%20price%20%3D%20SAR%2035.)
+
+indicative value of a right
+
+For example, if the price of a share is SAR 45 (the adjusted price after the capital increase) and the offering price is SAR 10, then the Right's indicative value equals (share's market price - offering price) = SAR 35.
+
+
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
