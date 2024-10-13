@@ -758,15 +758,13 @@ The finance entity shall not make any change in fees and commissions consumers s
 + The finance entity shall, before the conclusion of a financing agreement, disclose all information related to the requested financing product or service to consumers and provide them with the main terms and conditions (e.g. fees, commissions and Annual Percentage Rate, finance repayment period, early repayment procedures, financing agreement termination procedures, and complaint handling procedures).
 + The finance entity shall, before the conclusion of the financing agreement, disclose to its consumers any insurance coverage, the beneficiary of such coverage, and the procedures of dealing with the financing agreement in case of the death of the consumer who was granted the funding.
 + The finance entity shall inform the applicant of the reason for rejection by guaranteed communication means within a maximum period of (5 business days), in case the finance entity rejected the consumer’s application for any financing product or service.
-+ The finance entity shall examine the customer’s credit history after its approval to
++ The finance entity shall examine the customer’s credit history after its approval to verify his solvency and it should document that in the financing file. The finance entity shall provide each contracting party with a copy of the financing agreement and all its appendices within a period not exceeding (10 business days) after the conclusion of the agreement.
 
 39
 
-verify his solvency and it should document that in the financing file. The finance entity shall provide each contracting party with a copy of the financing agreement and all its appendices within a period not exceeding (10 business days) after the conclusion of the agreement.
-
 6. The Finance Entity’s Responsibilities after the Conclusion of the Financing Agreement: 
 
-+ The finance entity shall quarterly provide the customer with a free transaction statement (electronic or paper) showing the payments made and the remaining payments, if requested by the customer.
++ The finance entity shall *quarterly* provide the customer with a free transaction statement (electronic or paper) showing the payments made and the remaining payments, if requested by the customer.
 + The finance entity shall provide the customer, upon its request, with a detailed account statement without any delay, including all fees, term cost and all additional charges, in case of default or early repayment of finance.
 + The finance company shall execute consumer request by issuing a clearance letter – for any purpose, including salary transfer – in case there are no outstanding financial obligations on such consumer, within a period not exceeding one (1) business day from the date of receiving the request. 
 
@@ -778,18 +776,18 @@ To be familiar with the rules for disclosing the prices of financing and saving 
 
 ### 1.8.1 Rules for Disclosing the Prices of Financing and Saving Products:
 
-The purpose of these rules is to provide transparency to the capital market in terms of Annual Percentage Rate/AER of various products banks have on offer for retail, micro and small enterprises and finance companies have on offer for retail customers as defined by SAMA. It will further allow retail, micro and small enterprises to compare Annual Percentage Rate/AER between different financing and saving products offered by banks and finance companies. 
+The purpose of these rules is to provide transparency to the capital market in terms of Annual Percentage Rate/Annual Equivalent Rate of various products banks have on offer for retail, micro and small enterprises and finance companies have on offer for retail customers as defined by SAMA. It will further allow retail, micro and small enterprises to compare Annual Percentage Rate/Annual Equivalent Rate between different financing and saving products offered by banks and finance companies. 
 
 Definitions
 
 |-|-|
 |-|-|
 | Annual Percentage Rate (APR) | An internationally recognized indicator for disclosing the actual cost of finance, including all charges and administrative fees. |
-| Loan / Finance Amount | Amount of loan granted to the customer on the balance sheet |
+| Loan/Finance Amount | Amount of loan granted to the customer on the balance sheet |
 | Maturity Date | Contractual maturity of the on-balance sheet loans given to the customer: the final payment date of loan products at which point the principal (and all remaining interest) is due to be paid. |
 | Monthly Payment Amount | Installment amount the customer is obliged to pay to the bank or finance company each month until the debt is fully repaid. |
 | Property Market Value | Price negotiated between a willing buyer and a willing seller in an arm’s length transaction after fulfilling valuation criteria set by the bank. The value may not be the current listing price or the amount of the most recent offer on the property. |
-| Loan to Value Ratio | Ratio of a loan provided by an FI to the value of a property purchased and determined as property market value. |
+| Loan to Value Ratio | Ratio of a loan provided by an financial institution to the value of a property purchased and determined as property market value. |
 | Payment Type | Only interest/payments or, both principal and interest payments or else. |
 | Early Payment Charge | A fee the customer will be required to pay to a lender if the customer pays off a mortgage early and before the scheduled maturity term of the credit facility, also sometimes referred to as a Redemption Penalty. |
 
@@ -803,7 +801,7 @@ Definitions
 + D. Disclosure should be made for all types of products, exposure classes and tenors within the scope of these rules.
 + E. The process of calculation and factors that affect the pricing should be clarified for the purpose of transparency e.g. if floating rates are used, this should be clarified.
 + F. If one of the disclosure requirements in the disclosure forms is not applicable to a product, it should be clarified in the disclosure form as “Not Applicable – N/A” given that a reasonable justification is provided.
-+ G. For mortgage loans, which contain multiple features, banks and finance entities should develop a mortgage calculator on their websites considering the inputs prescribed in Section 5 of these rules. For other printed materials, one example per type should be used. Banks and finance entities may add a footnote that in some cases, depending on the risk profile of the customer, pricing can change for some customers as compared to the output from the mortgage calculators.
++ G. For mortgage loans, which contain multiple features, *banks and finance entities should develop a mortgage calculator on their websites* considering the inputs prescribed in Section 5 of these rules. For other printed materials, one example per type should be used. Banks and finance entities may add a footnote that in some cases, depending on the risk profile of the customer, pricing can change for some customers as compared to the output from the mortgage calculators.
 
 41
 
@@ -813,7 +811,7 @@ Banks and finance entities should use the examples below as illustration with th
  
 A. Loans for different types, amounts and maturities:
 
-(Only disclose main lending – on-balance sheet products and there is no need to disclose offbalance sheet products).                   
+(Only disclose main lending – on-balance sheet products and there is no need to disclose off balance sheet products).                   
 
 Example: 
 
@@ -855,7 +853,7 @@ Example: automobile loan
 
 | Asset Type | Loan/Finance Amount | Maturity in Years | Annual Percentage Rate | Monthly Payment Amount | Residual Value |
 |-|-|-|-|-|-|
-| Car | 200,000 | 5 years | 5% | 4051 | 20000 |
+| Car | 200,000 | 5 years | 5% | 4051 | 20,000 |
 
 43
 
