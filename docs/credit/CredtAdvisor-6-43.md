@@ -505,10 +505,9 @@ A. Obligations of Banks:
 When providing the standing payment order for a real estate financier, Banks shall:
 1. Verify that the customer has a fixed monthly income before accepting the application for establishing a standing payment order in favor of a real estate financier.
 2. Not submit a standing order in favor of a real estate financier in the event that the customer has an existing payment order in favor of a real estate financier.
-3. Obtain the customer’s declaration of his knowledge of the effect of establishing a stand -ing order in favor of a real estate financier.
-
+3. Obtain the customer’s declaration of his knowledge of the effect of establishing a standing order in favor of a real estate financier.
 4. Notify the customer upon issuing the standing payment order for a real estate financier via documented means of communication, provided that such notice includes at minimum Remuneration: The amount of transfer, the effective date of payment order, the term in months, and the account number to which the amount is transferred monthly.
-5. Pay against the standing payment order in favor of a real estate financier the full amount of transfer on maturity date or within (5) days from such date if it is not available on the maturity date.
+5. Pay against the standing payment order in favor of a real estate financier the full amount of transfer on maturity date or within `(5) days` from such date if it is not available on the maturity date.
 6. Notify the customer when the standing payment order cannot be applied, and provide the grounds for rejection through the documented means of communication.
 7. Obtain the consent of real estate financier which is the beneficiary of the standing payment order or obtain a letter of discharge from it when the customer requests to amend or cancel the standing payment order.
 8. Verify that the transfer amount in the customer’s account is not among the funds that SAMA has stipulated that they cannot be touched or deducted therefrom.
@@ -517,10 +516,10 @@ B. Obligations of the Beneficiary Real Estate Financier:
 
 The real estate financier which is the beneficiary of the standing payment order shall:
 1. Give the customer its consent to change the amount of standing payment order when its circumstances change resulting in rescheduling of the debt within (3) working days from the date of the customer’s request.
-1. Give the customer a discharge and no objection to cancel the standing order within (7) working days from the date of the customer’s request in the following cases:
-+ Pay the outstanding obligations.
-+ Exempt the customer from payment according to SAMA’s relevant instructions.
-1. Notify the customer upon receipt of the payment order amount via documented means of communication.
+2. Give the customer a discharge and no objection to cancel the standing order within (7) working days from the date of the customer’s request in the following cases:
+   + Pay the outstanding obligations.
+   + Exempt the customer from payment according to SAMA’s relevant instructions.
+3. Notify the customer upon receipt of the payment order amount via documented means of communication.
 
 29
 
