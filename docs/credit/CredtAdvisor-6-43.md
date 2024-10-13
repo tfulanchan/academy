@@ -282,11 +282,9 @@ Disclosure of Fees, Commissions and Charges:
 + Late payment fees must not exceed SAR 100, provided that the amount of the late payment fee cannot exceed the outstanding amount.
 + A card issuer must inform cardholders about outstanding transactions and request payment within a maximum of 90 days from the original date of the transaction. After that, the card issuers can only debit a cardholder’s account for payment after obtaining documented approval from the cardholder.
 + A card issuer is required to implement a clearly defined Code of Conduct for employees engaged in cards business and must obtain their acknowledgement of receipt.
-+ Credit and/or charge card outstanding amount must be due on the same date each month and payments received up to and including midnight on the due date must be treated as
++ Credit and/or charge card outstanding amount must be due on the same date each month and payments received up to and including midnight on the due date must be treated as timely. Card issuers cannot charge a late payment fee unless cardholders are given at least 21 days to pay their due amount.
 
 16
-
-timely. Card issuers cannot charge a late payment fee unless cardholders are given at least 21 days to pay their due amount.
 
 + Cash advance fees must not exceed:
   - SAR 75 for cash advance transaction up to SAR 5000.
@@ -357,13 +355,9 @@ Advertising Consumer Financing Products: Regulations of consumer financing that 
 1. Draw-down of any part of the amount of financing has occurred.
 2. A credit card or other means of obtaining financing has been used to acquire goods or services for which financing is to be advanced under the financing contract.
 + In case of secured financing, the description of the asset that guarantees financing must be indicated, and borrowers must undertake to maintain the collateral assets so as to be available to the creditor in the event of default.
-+ Right of Withdrawal: 
-
-Except in non-interest based transactions, the borrower may, without producing any
++ Right of Withdrawal: Except in non-interest based transactions, the borrower may, without producing any justifications and within 10 calendar days from the date of execution of a financing contract, terminate the financing contract. Exercising the right of withdrawal obliges the borrower to return to the creditor any cash sums obtained under the financing contract and the borrower shall pay any due charges or profits against the period in which the amount of financing was withdrawn calculated based upon the agreedupon Annual Percentage Rate of charges. The creditor may not claim any further withdrawal-related charges and should immediately return to the borrower any payment made by him in advance under the financing agreement.
 
 19
-
-justifications and within 10 calendar days from the date of execution of a financing contract, terminate the financing contract. Exercising the right of withdrawal obliges the borrower to return to the creditor any cash sums obtained under the financing contract and the borrower shall pay any due charges or profits against the period in which the amount of financing was withdrawn calculated based upon the agreedupon Annual Percentage Rate of charges. The creditor may not claim any further withdrawal-related charges and should immediately return to the borrower any payment made by him in advance under the financing agreement.
 
 4) Annual Percentage Rate (APR), Finance Charge Rate (FCR), and Profit Rate (PR):
 
@@ -867,6 +861,8 @@ Answer Reference: Section 1.1.1
 
 2. Mention the updated Regulations for Issuance and Operations of Credit and Charge Cards issued by SAMA in 2015
 
+Answer Reference: Section 1.2.2 
+
 <details>
   <summary>Mention the updated Regulations for Issuance and Operations of Credit and Charge Cards issued by SAMA in 2015</summary>
   <div>
@@ -874,12 +870,12 @@ Answer Reference: Section 1.1.1
   </div>
 </details>
 
-Answer Reference: Section 1.2.2 
-
 3. What are the aspects that shall be considered when setting credit limits for cards?
 
+Answer Reference: Section 1.2.4
+
 <details>
-  <summary>Answer Reference: Section 1.2.4</summary>
+  <summary>What are the aspects that shall be considered when setting credit limits for cards?</summary>
   <div>
     <div>typical value of transactions and timeliness of repayments</div>
     <div>credit scoring models, delinquency behavior</div>
@@ -889,8 +885,10 @@ Answer Reference: Section 1.2.2
 
 4. What are the information that must be included in an initial disclosure as a minimum?
  
+Answer Reference: Section 1.2.5
+
 <details>
-  <summary>Answer Reference: Section 1.2.5</summary>
+  <summary>What are the information that must be included in an initial disclosure as a minimum?</summary>
   <div>
     <ul><li>The initial credit limit, if it is known at the time the disclosure is made.</li><li>The APR and the annual term cost.</li><li>The nature and amounts of any recurring non-term cost charges.</li><li>The minimum payment during each payment period and the method for determining it.</li><li>Each period for which a statement of account is to be provided.</li></ul>
   </div>
@@ -900,30 +898,86 @@ Answer Reference: Section 1.2.2
 
 Answer Reference: Section 1.2.6
 
+<details>
+  <summary>Explain in brief the main rights and responsibilities of the credit and charge cardholder set by SAMA.</summary>
+  <div>
+    <ul><li>Cardholder to process a cash advance up to a maximum of 30% of their credit limit.</li><li>Cardholder has the right to, within 10 days of receiving a credit or charge card, cancel it free of change</li><li>The minimum payment during each payment period and the method for determining it.</li><li>Card issuers must regularly notify cardholders of paying the outstanding amount in time.</li></ul>
+  </div>
+</details>
+
 6. Mention the most prominent Regulations For Consumer Finance issued by SAMA.
 
 Answer Reference: Section 1.3.1
+
+<details>
+  <summary>Mention the most prominent Regulations For Consumer Finance issued by SAMA.</summary>
+  <div>
+    <ol><li>Transparency and Disclosure</li><li>Confidentiality or Privacy of Information</li><li>Necessary Content of Financing Contracts or Guarantee Agreements</li><li>Annual Percentage Rate (APR), Finance Charge Rate (FCR), and Profit Rate (PR)</li></ol>
+  </div>
+</details>
 
 7. Outline the main points of the Implementing Regulations of the Real Estate Finance issued by SAMA.
 
 Answer Reference: Section 1.4
 
+<details>
+  <summary>Outline the main points of the Implementing Regulations of the Real Estate Finance issued by SAMA.</summary>
+  <div>
+    <ul><li>License real estate finance companies</li><li>Allow banks to engage in real estate finance activities through the ownership of dwellings for finance purposes</li><li>License a joint stock company for real estate refinance</li></ul>
+  </div>
+</details>
+
 8. Clarify in brief the provisions of the real estate finance contract in the form of Murabaha.
 
 Answer Reference: Section 1.5.2 
+
+<details>
+  <summary>Mention the most prominent Regulations For Consumer Finance issued by SAMA.</summary>
+  <div>
+    <ol><li>When a customer applies for a real estate finance product, the financier shall request and examine the information necessary to know the customer’s financial conditions and develop a clear picture of the customer’s ability to meet the associated finance obligations, thus enabling the financier to develop an image on suitability of such product to such customer.</li><li>A responsible and specialized official shall present and discuss this explanation with the Customer and answer to all of its queries. The explanation and discussion must be in a language that the Customer understands in a simplified and clear manner. The supplier shall document the submission of this explanation.</li></ol>
+  </div>
+</details>
 
 9. Clarify in brief the rights and obligations of the lessee under the Finance Lease Law
 
 Answer Reference: Section 1.6.2 
 
+<details>
+  <summary>Clarify in brief the rights and obligations of the lessee under the Finance Lease Law</summary>
+  <div>
+    <ul><li>Right to Own</li><li>Assignment of the Contract</li><li>Expiry or Revocation of Contract</li><li>Usufruct: The lessee may take the necessary procedures for the protection and full usage of the leased asset at the lessor’s expense</li></ul>
+  </div>
+</details>
+
 10. Clarify in brief the rights and obligations of the lessor under the Finance Lease Law
 
 Answer Reference: Section 1.6.3
+
+<details>
+  <summary>Clarify in brief the rights and obligations of the lessor under the Finance Lease Law</summary>
+  <div>
+    <ul><li>If the lessor authorizes the lessee in writing to directly receive the leased asset from the supplier, producer or contractor as per the conditions and specifications set out in the contract, such receipt shall be by virtue of a record establishing the conditions of the leased asset. The lessee shall be responsible vis-à-vis the lessor for any information about the leased asset stated in said record.</li></ul>
+  </div>
+</details>
 
 11. What are the Banking Consumer Protection General Principles as stipulated by SAMA?
 
 Answer Reference: Section 1.7.2 
 
-12. List the rules for disclosing prices of financing and saving products 
+<details>
+  <summary>What are the Banking Consumer Protection General Principles as stipulated by SAMA?</summary>
+  <div>
+    <div>The financial institution must ensure that the information about products and services provided to consumers is clear and comprehensible and that it is updated, clear, concise, accurate, not misleading, and easy to access especially the key terms and features.</div>
+  </div>
+</details>
+
+12. List the rules for disclosing prices of financing and saving products.
 
 Answer Reference: Section 1.8.2
+
+<details>
+  <summary>List the rules for disclosing prices of financing and saving products.</summary>
+  <div>
+    <ul><li>Information disclosed should only be quantitative</li><li>Financing limits, charges and tariffs should be subject to the relevant regulations</li><li>Disclosure should be made for all types of products and tenors</li><li>The process of calculation and factors that affect the pricing should be clarified</li></ul>
+  </div>
+</details>
