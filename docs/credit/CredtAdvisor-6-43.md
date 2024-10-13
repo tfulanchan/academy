@@ -334,20 +334,21 @@ Advertising Consumer Financing Products: Regulations of consumer financing that 
 + The creditor must provide the borrower with a written disclosure statement that provides the information required be disclosed. A disclosure statement may be part of a financing contract or an application for a consumer financing or may be an annex to the foregoing documents.
 + Sharing Information between creditors and borrowers: the creditor should provide the borrower with full and accurate information required for the financing agreement. The borrower and the guarantor must accurately and completely produce any information necessary in this regard.
 + Non-interest based products: Documentation required for the purchase and sale of goods shall comply with requirements of the bank’s Shariah Board.
-+ The creditor should provide customers with all documents related to the financing con -tracts, repayment schedules and borrower acknowledgement letters.
++ The creditor should provide customers with all documents related to the financing contracts, repayment schedules and borrower acknowledgement letters.
 + The creditor must register the purpose of all personal loans, and take measures to ensure such loans are used for the intended purposes.
-1. Confidentiality or Privacy of Information: 
+
+2. Confidentiality or Privacy of Information: 
 + Personal information of the borrower, guarantor or other individuals required to conclude financing contracts should be kept confidential. Such information may not be processed unless for evaluating the financial position of such individuals and their capability to fulfill the agreed-upon finance.
 
 18
 
 + Saudi Credit Bureau (SIMAH) operates a central database for the purpose of registering and recording the credit data of borrowers and guarantors. All banks must refer to the database before carrying out any commitment to the borrower or guarantor. Further, the personal data obtained may only be used for evaluating the financial position of the borrower and guarantor and their capability for payment.
 
-1) Necessary Content of Financing Contracts or Guarantee Agreements:
+3) Necessary Content of Financing Contracts or Guarantee Agreements:
 
 + Names of the parties to the financing contract, i.e. the creditor, borrower, and guarantor.
 + APR of charge and the term cost or profit calculated and specified at the time of concluding the financing contract. The actual borrowing cost and the comparability should be indicated. APR must include all mandatory charges or costs under a consumer financing as shown in the relevant advertising notices or materials.
-+ The financing contract must stipulate the use of the declining balance method in distrib -uting the term cost over the maturity period, which means that the term cost is allocated pro-rata to installments based on the remaining balance of the amount of financing at the beginning of the period for which an installment is due.
++ The financing contract must stipulate the use of the declining balance method in distributing the term cost over the maturity period, which means that the term cost is allocated pro-rata to installments based on the remaining balance of the amount of financing at the beginning of the period for which an installment is due.
 + All fees, costs and administrative services charges to be recovered from the borrower by the creditor must not exceed the equivalent of (1%) of the amount of financing or SAR 5,000 (five thousand Saudi Riyals), whichever is lower, in addition to calculating VAT on the fee amount.
 + Statement of account in the form of repayment schedule if the financing contract involves capital amortization, in addition to outstanding payments, timeframes and repayment-related terms.
 + A statement indicating the periods and conditions for repaying the borrowing costs or profit and the recurring and non-recurring fees associated with it if there are special fees, commissions or profit to be paid without amortizing the capital.
@@ -364,32 +365,28 @@ Except in non-interest based transactions, the borrower may, without producing a
 
 justifications and within 10 calendar days from the date of execution of a financing contract, terminate the financing contract. Exercising the right of withdrawal obliges the borrower to return to the creditor any cash sums obtained under the financing contract and the borrower shall pay any due charges or profits against the period in which the amount of financing was withdrawn calculated based upon the agreedupon APR of charges. The creditor may not claim any further withdrawal-related charges and should immediately return to the borrower any payment made by him in advance under the financing agreement.
 
-1) Annual Percentage Rate (APR), Finance Charge Rate (FCR), and Profit Rate (PR):
+4) Annual Percentage Rate (APR), Finance Charge Rate (FCR), and Profit Rate (PR):
 
 + The APR and the Profit Rate:
-
 Criteria have been set for calculating APR, which is an internationally recognized indicator to disclose the actual cost of financing, including all administrative costs and fees. APR of charge must reflect all mandatory expenses or unavoidable costs involved in any transaction as shown in advertisements or by other means. For non-interest based products, a similar methodology shall be utilized, i.e. for related and similar cash flows, withdrawals, payments and other fees for the purpose of calculating APR of charge. The total cost of financing for the borrower shall be determined including all mandatory costs except for fees payable by the borrower against violation of any of financing contract conditions. APR of charge shall be calculated based on the assumption that the financing contract will remain in effect for the agreed term and both the borrower and creditor will fulfill their obligations under the agreed terms and conditions.
 
 + Finance Charge Rate: 
 
-FCR may be fixed or variable. The borrower must be notified in writing or via any other reliable means of any change in FCR. Such notification should include new APR, new total FCR set by the creditor, as well as the new schedule for debt amortization if so applied. 
+Finance Charge Rate may be fixed or variable. The borrower must be notified in writing or via any other reliable means of any change in Finance Charge Rate. Such notification should include new APR, new total Finance Charge Rate set by the creditor, as well as the new schedule for debt amortization if so applied. 
 
 + Profit Rate: 
-PR shall apply to all types of financing under all non-interest based financing contracts. PR means the rate used so as to generate profits from the invested funds, which also represent the APR.
+Profit Rate shall apply to all types of financing under all non-interest based financing contracts. Profit Rate means the rate used so as to generate profits from the invested funds, which also represent the Annual Percentage Rate.
 
-1) Unfair Conditions:
+5) Unfair Conditions:
 The consumer-finance contract or guarantee agreement is considered unfair if it aims or may cause harm to the economic or other interests of the borrower, particularly if any of the following conditions are applied:
-+ Changing any contractual expenses, compensation, or fees other than FCR or PR. 
-+ Introducing conditions on the possibility of changing FCR or PR that prejudice the right of the borrower.
-+ Applying methods that involve FCR or variable PRs that have no connection to the net initial FCR or the proposed PR at the time of concluding the financing contract. 
++ Changing any contractual expenses, compensation, or fees other than Financial Charge Rate or Profit Rate. 
++ Introducing conditions on the possibility of changing Financial Charge Rate or Profit Rate that prejudice the right of the borrower.
++ Applying methods that involve Financial Charge Rate or variable Profit Rates that have no connection to the net initial Financial Charge Rate or the proposed Pofit Rate at the time of concluding the financing contract.
 + Obliging the borrower to deal with the same creditor to refinance the remaining value or to finance the last installment of the financing contract for purchasing movable property or services.
-+ Obliging the borrower – except for trade margin – as a condition for withdrawal, to leave as collateral all or part of the amounts borrowed or granted, or use all or part of such amounts to form a deposit or purchase securities or other financial instruments, unless the
++ Obliging the borrower – except for trade margin – as a condition for withdrawal, to leave as collateral all or part of the amounts borrowed or granted, or use all or part of such amounts to form a deposit or purchase securities or other financial instruments, unless the borrower gets the same currency price for the deposit, purchase or collateral such as the agreed APR of charge.
++ The borrower or guarantor shall not be required to sign a check guaranteeing payment of the amount due in whole or in part.
 
 20
-
-borrower gets the same currency price for the deposit, purchase or collateral such as the agreed APR of charge.
-
-+ The borrower or guarantor shall not be required to sign a check guaranteeing payment of the amount due in whole or in part.
 
 ## 1.4 Implementing Regulations of the Real Estate Finance Law:
 
@@ -398,7 +395,6 @@ Learning Objective
 To be familiar with the Implementing Regulations of the Real Estate Finance Law 
 
 Real estate finance is the finance granted to customers for purposes of building, purchasing residential and commercial units or purchasing, developing residential lands and other related activities conducted by companies authorized by SAMA. The Implementing Regulations of the Real Estate Finance Law included controls for real estate financing, but first let us have a look on the most important terms in real estate finance:
-
 + Real Estate Finance: Extending credit to a borrower for the purpose of owning a dwelling.
 + Real Estate Finance Contract: A deferred payment contract extended to a borrower to own a dwelling.
 + Real Estate Finance Contractual Rights: cash flows, mortgages, collaterals and other rights arising under a real estate finance contract.
@@ -409,7 +405,7 @@ Real estate finance is the finance granted to customers for purposes of building
 + Real Estate Refinance Company: a joint stock company licensed to engage in real estate refinance activities.
 
 SAMA shall, pursuant to the Real Estate Finance Law and Implementing Regulations thereof, regulate the real estate finance sector. For this purpose, SAMA may:
-1. License real estate finance companies to engage in real estate finance activities in accor -dance with the provisions of the Real Estate Finance Law, Finance Companies Control Law and their regulations.
+1. License real estate finance companies to engage in real estate finance activities in accordance with the provisions of the Real Estate Finance Law, Finance Companies Control Law and their regulations.
 2. Allow banks to engage in real estate finance activities through the ownership of dwellings for finance purposes, in accordance with the Real Estate Finance Law and Implementing Regulations thereof.
 3. License a joint stock company (or more) for real estate refinance according to market needs. The Public Investment Fund may become a co-owner of such company. SAMA shall approve nominations for board membership. Licensed finance entities may also become co-owners of such company. A portion of the shares of the company shall be offered to the public in accordance with the Capital Market Law.
 4. License cooperative insurance companies to cover real estate finance risks in accordance with the Cooperative Insurance Companies Control Law.
@@ -438,11 +434,9 @@ SAMA issued an update of the standard forms of the real estate contract in Murab
 
 | Finance Aspect | Murabaha | Ijarah |
 |-|-|-|
-| Form Mechanism | • The finance company mediates the purchase of a commodity at the request of the customer, and then sells such commodity to him on credit at a price equal to the total cost of such purchase plus a known profit agreed upon between them. Total purchase cost is the purchase price of commodity plus all expenses paid by the financing company to acquire such commodity, minus any charge (discount) obtained by the bank from the seller. • The real estate financing contract in the form of Murabaha includes the borrower’s request from the financier to finance the purchase of financed asset described in Murabaha contract at a price stated in such contract, in accordance with terms and conditions thereof. Ijarah | • Each contract in which the lessor (finance company) leases fixed or movable assets, rights, services or intangible rights in the lessor’s capacity as owner or owner of proceeds thereof, or a person able to own or produce such assets, provided that the lessor has obtained such assets for the purpose of leasing them, as a business, to a third party. = The real estate finance contract in the form of lease includes a request from someone called “the promisor” to the finance entity that owns the property indicated in the contract promising him to lease such property under a finance lease at the price indicated in the contract and in accordance with terms and conditions thereof. |
+| Form Mechanism | <ul><li>The finance company mediates the purchase of a commodity at the request of the customer, and then sells such commodity to him on credit at a price equal to the total cost of such purchase plus a known profit agreed upon between them. Total purchase cost is the purchase price of commodity plus all expenses paid by the financing company to acquire such commodity, minus any charge (discount) obtained by the bank from the seller. Thus, the amount of Murabaha is the total cost of the purchase plus the profit of the bank.</li><li>The real estate financing contract in the form of Murabaha includes the borrower’s request from the financier to finance the purchase of financed asset described in Murabaha contract at a price stated in such contract, in accordance with terms and conditions thereof.</li></ul> | <ul><li>Each contract in which the lessor (finance company) leases fixed or movable assets, rights, services or intangible rights in the lessor’s capacity as owner or owner of proceeds thereof, or a person able to own or produce such assets, provided that the lessor has obtained such assets for the purpose of leasing them, as a business, to a third party.</li><li>The real estate finance contract in the form of lease includes a request from someone called “the promisor” to the finance entity that owns the property indicated in the contract promising him to lease such property under a finance lease at the price indicated in the contract and in accordance with terms and conditions thereof.</li></ul> |
 | Ownership of Leased Assets | The beneficiary undertakes to pledge the funded asset to the financier in order to ensure that the beneficiary fulfills the payable forward installments under Murabaha contract, once the funded asset is evicted, in accordance with the Registered Real Estate Mortgage Law. The beneficiary shall preserve, maintain and protect the financed asset against damage, and may not make substantial modifications thereto or do anything that substantially affects its value as a mortgaged asset without obtaining the financier’s approval. | The lessor shall be the owner of the leased asset for the term of contract and until the lessee pays all the amounts payable by him. Save for the promise to own under the contract, the lessee has no right or interest in the leased asset other than being a lessee thereof. |
-
-
-Thus, the amount of Murabaha is the total cost of the purchase plus the profit of the bank. 
+ 
 
 23
 
