@@ -127,7 +127,7 @@ Example of charge cards include American Express.
 + Card Association: Also known as “Payment Systems Operators” such as VISA, Master Card, American Express, Union Pay and Diners Club or similar institutions.
 + Card Limit: The credit line made available to a credit or charge cardholder under a credit or charge card agreement. 
 + Cash Advance: A transaction to withdraw cash by the cardholder against his/her credit or charge card limit though POS terminals or cash withdrawals at supermarkets (stores).
-+ Annual Percentage Rate (APR): Total cost of credit provided to the cardholder under a credit agreement. If the customer uses the entire credit card balance and pays the minimum due without paying the full amount, he will charge the credit card APR on the remainder of the outstanding amount.
++ Annual Percentage Rate (APR): Total cost of credit provided to the cardholder under a credit agreement. If the customer uses the entire credit card balance and pays the minimum due without paying the full amount, he will charge the credit card Annual Percentage Rate on the remainder of the outstanding amount.
 
 Example:
 
@@ -137,7 +137,7 @@ Purchases (Within a month)   10,000
 
 Minimum Payment (5%)      500
 
-Remaining Amount (The financier will charge the APR on this unpaid amount)   9,500
+Remaining Amount (The financier will charge the Annual Percentage Rate on this unpaid amount)   9,500
 
 + Term Cost: The amount of the term cost payable by the cardholder and it may be represented as a fixed or variable percentage of the outstanding balance on the credit card account.
 + Billing Cycle: The interval between the days or dates of regular periodic statements. These intervals shall be equal and no longer than a quarter of a year. An interval will be considered equal if the number of days in the cycle does not vary more than four days from the regular day or date of the periodic statement.
@@ -162,7 +162,7 @@ services provided by the licensed entities. The most prominent updated regulatio
 1. Summary of Credit or Charge Card Agreement: Card issuers must provide to the customer a summary covering the basic information and the main provisions of the credit or charge card agreement, in a language clear to the cardholder.
 1. Transparency and Disclosure: The card issuer shall fulfill principles of transparency and disclosure in advertising and marketing of products without misleading and determine minimum data required for agreements. The issuer should disclose all fees and commissions associated with the card. 
 1. Objection Requirements: The agreement must include clear procedures for cardholder customers in case of objection to irregular operations.
-1. Annual Percentage Rate: The card issuer should develop criteria for calculating the internationally recognized APR for announcing the true cost of financing.
+1. Annual Percentage Rate: The card issuer should develop criteria for calculating the internationally recognized Annual Percentage Rate for announcing the true cost of financing.
 1. Fees and Commissions: Annual charges determined according to the type of card to be paid by the cardholder to the card issuer, including the maximum cash withdrawal limit and the maximum defaulting fees.
 1. Rules and Criteria for Dealing with Customer: The card issuer shall establish a set of rules for dealing with customers, including serving a notification thereto of any changes made to the agreement and obtaining his approval when necessary.
 1. The cardholder shall be responsible for transactions exceeding the card credit limit and the amount of unauthorized transactions recorded on his account.
@@ -243,7 +243,7 @@ Further, the card issuer should provide the initial disclosure to the cardholder
 
 The initial disclosure must include the following information as a minimum:
 + The initial credit limit, if it is known at the time the disclosure is made.
-+ The APR and the annual term cost.
++ The Annual Percentage Rate and the annual term cost.
 + The nature and amounts of any recurring non-term cost charges.
 + The minimum payment during each payment period and the method for determining it. 
 + Each period for which a statement of account is to be provided.
@@ -347,7 +347,7 @@ Advertising Consumer Financing Products: Regulations of consumer financing that 
 3) Necessary Content of Financing Contracts or Guarantee Agreements:
 
 + Names of the parties to the financing contract, i.e. the creditor, borrower, and guarantor.
-+ APR of charge and the term cost or profit calculated and specified at the time of concluding the financing contract. The actual borrowing cost and the comparability should be indicated. APR must include all mandatory charges or costs under a consumer financing as shown in the relevant advertising notices or materials.
++ Annual Percentage Rate of charge and the term cost or profit calculated and specified at the time of concluding the financing contract. The actual borrowing cost and the comparability should be indicated. Annual Percentage Rate must include all mandatory charges or costs under a consumer financing as shown in the relevant advertising notices or materials.
 + The financing contract must stipulate the use of the declining balance method in distributing the term cost over the maturity period, which means that the term cost is allocated pro-rata to installments based on the remaining balance of the amount of financing at the beginning of the period for which an installment is due.
 + All fees, costs and administrative services charges to be recovered from the borrower by the creditor must not exceed the equivalent of (1%) of the amount of financing or SAR 5,000 (five thousand Saudi Riyals), whichever is lower, in addition to calculating VAT on the fee amount.
 + Statement of account in the form of repayment schedule if the financing contract involves capital amortization, in addition to outstanding payments, timeframes and repayment-related terms.
@@ -363,16 +363,16 @@ Except in non-interest based transactions, the borrower may, without producing a
 
 19
 
-justifications and within 10 calendar days from the date of execution of a financing contract, terminate the financing contract. Exercising the right of withdrawal obliges the borrower to return to the creditor any cash sums obtained under the financing contract and the borrower shall pay any due charges or profits against the period in which the amount of financing was withdrawn calculated based upon the agreedupon APR of charges. The creditor may not claim any further withdrawal-related charges and should immediately return to the borrower any payment made by him in advance under the financing agreement.
+justifications and within 10 calendar days from the date of execution of a financing contract, terminate the financing contract. Exercising the right of withdrawal obliges the borrower to return to the creditor any cash sums obtained under the financing contract and the borrower shall pay any due charges or profits against the period in which the amount of financing was withdrawn calculated based upon the agreedupon Annual Percentage Rate of charges. The creditor may not claim any further withdrawal-related charges and should immediately return to the borrower any payment made by him in advance under the financing agreement.
 
 4) Annual Percentage Rate (APR), Finance Charge Rate (FCR), and Profit Rate (PR):
 
-+ The APR and the Profit Rate:
-Criteria have been set for calculating APR, which is an internationally recognized indicator to disclose the actual cost of financing, including all administrative costs and fees. APR of charge must reflect all mandatory expenses or unavoidable costs involved in any transaction as shown in advertisements or by other means. For non-interest based products, a similar methodology shall be utilized, i.e. for related and similar cash flows, withdrawals, payments and other fees for the purpose of calculating APR of charge. The total cost of financing for the borrower shall be determined including all mandatory costs except for fees payable by the borrower against violation of any of financing contract conditions. APR of charge shall be calculated based on the assumption that the financing contract will remain in effect for the agreed term and both the borrower and creditor will fulfill their obligations under the agreed terms and conditions.
++ The Annual Percentage Rate and the Profit Rate:
+Criteria have been set for calculating Annual Percentage Rate, which is an internationally recognized indicator to disclose the actual cost of financing, including all administrative costs and fees. Annual Percentage Rate of charge must reflect all mandatory expenses or unavoidable costs involved in any transaction as shown in advertisements or by other means. For non-interest based products, a similar methodology shall be utilized, i.e. for related and similar cash flows, withdrawals, payments and other fees for the purpose of calculating Annual Percentage Rate of charge. The total cost of financing for the borrower shall be determined including all mandatory costs except for fees payable by the borrower against violation of any of financing contract conditions. Annual Percentage Rate of charge shall be calculated based on the assumption that the financing contract will remain in effect for the agreed term and both the borrower and creditor will fulfill their obligations under the agreed terms and conditions.
 
 + Finance Charge Rate: 
 
-Finance Charge Rate may be fixed or variable. The borrower must be notified in writing or via any other reliable means of any change in Finance Charge Rate. Such notification should include new APR, new total Finance Charge Rate set by the creditor, as well as the new schedule for debt amortization if so applied. 
+Finance Charge Rate may be fixed or variable. The borrower must be notified in writing or via any other reliable means of any change in Finance Charge Rate. Such notification should include new Annual Percentage Rate, new total Finance Charge Rate set by the creditor, as well as the new schedule for debt amortization if so applied. 
 
 + Profit Rate: 
 Profit Rate shall apply to all types of financing under all non-interest based financing contracts. Profit Rate means the rate used so as to generate profits from the invested funds, which also represent the Annual Percentage Rate.
@@ -383,7 +383,7 @@ The consumer-finance contract or guarantee agreement is considered unfair if it 
 + Introducing conditions on the possibility of changing Financial Charge Rate or Profit Rate that prejudice the right of the borrower.
 + Applying methods that involve Financial Charge Rate or variable Profit Rates that have no connection to the net initial Financial Charge Rate or the proposed Pofit Rate at the time of concluding the financing contract.
 + Obliging the borrower to deal with the same creditor to refinance the remaining value or to finance the last installment of the financing contract for purchasing movable property or services.
-+ Obliging the borrower – except for trade margin – as a condition for withdrawal, to leave as collateral all or part of the amounts borrowed or granted, or use all or part of such amounts to form a deposit or purchase securities or other financial instruments, unless the borrower gets the same currency price for the deposit, purchase or collateral such as the agreed APR of charge.
++ Obliging the borrower – except for trade margin – as a condition for withdrawal, to leave as collateral all or part of the amounts borrowed or granted, or use all or part of such amounts to form a deposit or purchase securities or other financial instruments, unless the borrower gets the same currency price for the deposit, purchase or collateral such as the agreed Annual Percentage Rate of charge.
 + The borrower or guarantor shall not be required to sign a check guaranteeing payment of the amount due in whole or in part.
 
 20
@@ -713,9 +713,7 @@ Be careful when dealing with Power of Attorney in your financial transactions.
 
 13. Review all of your information:
 
-Review all of your information you provided in the application forms to avoid any errors. 
-
-The finance entity should provide you with a copy of your signed contracts and documents, and shall keep them in a safe place. 
+Review all of your information you provided in the application forms to avoid any errors. The finance entity should provide you with a copy of your signed contracts and documents, and shall keep them in a safe place. 
 
 14. Repayment of Monthly Payments:
 
@@ -747,17 +745,17 @@ The finance entity shall not make any change in fees and commissions consumers s
 
 4. Advertisement and Marketing:
 
-+ The finance entity shall communicate with customers by using at least two preferred means of communication for example, but not limited to, e-mail, registered mail, SMS and telephone.
++ *The finance entity shall communicate with customers by using at least two preferred means of communication* for example, but not limited to, e-mail, registered mail, SMS and telephone.
 + The finance entity shall ensure that advertisements or promotional materials using promotional prices or introductory prices indicate the expiry date of these prices and offers.
 + The finance entity shall ensure that advertisements which include abbreviations (e.g. Annual Percentage Rate “APR”) are explicitly explained.
 + The finance entity shall not send any marketing materials on financing products that contain unsuitable risks for individuals under the age of 18.
-+ The finance entity shall ensure that the advertisement is clear, professional, not misleading and in a clear font including margins. The advertisement should not harm other companies’ interests or distort the reputation of the financial sector.
++ The finance entity shall ensure that the advertisement is clear, professional, not misleading and in a clear font including margins. *The advertisement should not harm other companies’ interests or distort the reputation of the financial sector*.
 + SAMA has the right to require the finance entity that does not comply with the aforementioned conditions to withdraw the advertisement within one business day from the notification of SAMA.
 
 5. The Finance Entity’s Responsibilities Before or Upon the Conclusion of the Financing Agreement:
 + The finance entity shall obtain consumers’ necessary information to estimate their needs of financing products and services. The finance entity shall provide consumers with consultations and advice on choosing the products and services suitable for their needs.
 + The finance entity shall obtain a request from the customer by any guaranteed means of communication before granting a new finance.
-+ The finance entity shall, before the conclusion of a financing agreement, disclose all information related to the requested financing product or service to consumers and provide them with the main terms and conditions (e.g. fees, commissions and APR, finance repayment period, early repayment procedures, financing agreement termination procedures, and complaint handling procedures).
++ The finance entity shall, before the conclusion of a financing agreement, disclose all information related to the requested financing product or service to consumers and provide them with the main terms and conditions (e.g. fees, commissions and Annual Percentage Rate, finance repayment period, early repayment procedures, financing agreement termination procedures, and complaint handling procedures).
 + The finance entity shall, before the conclusion of the financing agreement, disclose to its consumers any insurance coverage, the beneficiary of such coverage, and the procedures of dealing with the financing agreement in case of the death of the consumer who was granted the funding.
 + The finance entity shall inform the applicant of the reason for rejection by guaranteed communication means within a maximum period of (5 business days), in case the finance entity rejected the consumer’s application for any financing product or service.
 + The finance entity shall examine the customer’s credit history after its approval to
@@ -780,7 +778,7 @@ To be familiar with the rules for disclosing the prices of financing and saving 
 
 ### 1.8.1 Rules for Disclosing the Prices of Financing and Saving Products:
 
-The purpose of these rules is to provide transparency to the capital market in terms of APR/AER of various products banks have on offer for retail, micro and small enterprises and finance companies have on offer for retail customers as defined by SAMA. It will further allow retail, micro and small enterprises to compare APR/AER between different financing and saving products offered by banks and finance companies. 
+The purpose of these rules is to provide transparency to the capital market in terms of Annual Percentage Rate/AER of various products banks have on offer for retail, micro and small enterprises and finance companies have on offer for retail customers as defined by SAMA. It will further allow retail, micro and small enterprises to compare Annual Percentage Rate/AER between different financing and saving products offered by banks and finance companies. 
 
 Definitions
 
@@ -821,17 +819,17 @@ Example:
 
 Term Loan  
 
-| Loan / Finance Amount | Maturity in Years | *APR | Monthly Payment Amount |
+| Loan / Finance Amount | Maturity in Years | *Annual Percentage Rate | Monthly Payment Amount |
 |-|-|-|-|
 | 100,000 | 5 years | 5.5% | 1,901 |
 
-*APR may differ depending on the amount and the maturity period different from the above example and subject to credit scoring of each customer.
+*Annual Percentage Rate may differ depending on the amount and the maturity period different from the above example and subject to credit scoring of each customer.
 
 B. All Credit Card Types and Classes:
 
 Example: Platinum 28-months balance-transfer card
 
-| *APR | Credit Card Purchase Rate | Minimum Repayment Amount% | Months Until Balance Repaid |
+| *Annual Percentage Rate | Credit Card Purchase Rate | Minimum Repayment Amount% | Months Until Balance Repaid |
 |-|-|-|-|
 | 19% | 19% | 5% | 60 Months |
 
@@ -841,7 +839,7 @@ C. Residential Mortgages:
 
 Example: First home buy
 
-| Property Market Value | Loan to Value Ratio | Fixed or Variable Rate** | APR | Maturity in Years | Payment Type | Monthly Payment Amount | Fixed or Variable Rate** |
+| Property Market Value | Loan to Value Ratio | Fixed or Variable Rate** | Annual Percentage Rate | Maturity in Years | Payment Type | Monthly Payment Amount | Fixed or Variable Rate** |
 |-|-|-|-|-|-|-|-|
 | 500,000 | 90% | Fixed Rate | 4.5% | 25 Years | Principal and Interest/ Profit | 1937.8 | Profit of future 3 installments |
 
@@ -855,7 +853,7 @@ D. Financial Leasing Products for Each Type of Assets:
 
 Example: automobile loan
 
-| Asset Type | Loan/Finance Amount | Maturity in Years | APR | Monthly Payment Amount | Residual Value |
+| Asset Type | Loan/Finance Amount | Maturity in Years | Annual Percentage Rate | Monthly Payment Amount | Residual Value |
 |-|-|-|-|-|-|
 | Car | 200,000 | 5 years | 5% | 4051 | 20000 |
 

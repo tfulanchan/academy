@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "知識は運命を変える",
   tagline: "知識が人の運命を変える",
-  favicon: "img/logo.svg",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
