@@ -539,92 +539,40 @@ If the lessor authorizes the lessee in writing to directly receive the leased as
 
 Financial lease controls can be categorized into controls on lessee rights, and others on lessor rights. 
 
-A. A. Rights of the Lessee under the Finance Lease Law: 
+A. Rights of the Lessee under the Finance Lease Law: 
 
-+ Right to Own: In case the lessee has the right of ownership or the promise of it, 
-the contract shall include a payment schedule determining the principal lease value of the asset and the value of the right of ownership separately. The installment for any period of the contract term shall not be less than the lease value of the asset for such period. In case of termination or expiry of the contract during the lease term upon mutual consent of the Lessee Rights 
-+ Lease Payments: The lessee shall make the agreed lease payments on dates set in the contract regardless of whether the lessee benefits from the leased asset, unless the failure to benefit is caused by the lessor.
-+ A condition to advance the maturity dates of future lease payments to be made by the lessee in case of default is permissible, provided such payments do not exceed the number of defaulted payments.
-+ Part of the lease payments may be advanced, and the advance lease payments Lessee Responsibilities 
+| Lessee Rights | Lessee Responsibilities |
+|-|-|
+| Right to Own: In case the lessee has the right of ownership or the promise of it, the contract shall include a payment schedule determining the principal lease value of the asset and the value of the right of ownership separately. The installment for any period of the contract term shall not be less than the lease value of the asset for such period. In case of termination or expiry of the contract during the lease term upon mutual consent of the parties or pursuant to the provisions of the contract or Law, the lessee may recover the right of ownership value for the period paid. | <ul><li>Lease Payments: The lessee shall make the agreed lease payments on dates set in the contract regardless of whether the lessee benefits from the leased asset, unless the failure to benefit is caused by the lessor.</li><li>A condition to advance the maturity dates of future lease payments to be made by the lessee in case of default is permissible, provided such payments do not exceed the number of defaulted payments.</li><li>Part of the lease payments may be advanced, and the advance lease payments</li><ul> |
 
 30
 
-parties or pursuant to the provisions of the contract or Law, the lessee may recover the right of ownership value for the period paid.
-
-+ Assignment of the Contract: The lessee, upon a written consent of the lessor, may assign the contract to another lessee. The lessor, within not more than ten (10) business days of the assignment date, shall attest his consent at the Contracts Register.
-
-Refusal to give consent by the lessor shall be reasoned.
-
-+ Expiry or Revocation of Contract: The lessee shall deliver the leased asset 
-  - in the same condition agreed upon in the contract
-  - to the lessor upon termination, revocation or expiry of the contract, unless the lessee decides ownership of the leased asset according to the contract. 
-+ Usufruct: The lessee may take the necessary procedures for the protection and full usage of the leased asset at the lessor’s expense, if he fails to eliminate what prevents whole or partial use of the leased asset within the period specified in the contract or as specified under the Law. shall be refunded in case of failure to deliver the leased asset or benefit therefrom for a reason not attributed to the lessee.
-
-+ Obtaining Asset Operational License: 
-
-If the possession, operation or management of the asset subject of the contract requires obtaining a license, the lessee may apply to the competent authority to obtain such license based on the registered contract in accordance with the provisions of the Finance Lease Law. The license may be issued in the name of the lessor with an indication that the leased asset is in the possession of the lessee under the contract. Unless agreed otherwise, the lessee shall bear all statutory fees for obtaining the license and renewal thereof.
-
-+ Usage of the Leased Asset: The lessee shall use the leased asset for the agreed purposes within the ordinary use and shall be responsible for performing the operational maintenance at his own expense according to the prevailing technical practices. The basic maintenance shall be performed by the lessor unless agreed to be performed by the lessee. In such case, the basic maintenance shall be limited to wear and tear rather than inherent defect or fault in the leased asset. The lessee shall be liable for any damage or loss resulting out from his usage of the leased asset.
-+ Circumstances that Prevent the Use of the Leased Asset: The lessee shall promptly notify the lessor, in writing or electronically, of any occurrence that prevents whole or partial use of the leasedasset, or as specified under the Law. via communication means specified in the contract
+| Lessee Rights | Lessee Responsibilities |
+|-|-|
+| Assignment of the Contract: The lessee, upon a written consent of the lessor, may assign the contract to another lessee. The lessor, within not more than ten (10) business days of the assignment date, shall attest his consent at the Contracts Register. Refusal to give consent by the lessor shall be reasoned. | Obtaining Asset Operational License: If the possession, operation or management of the asset subject of the contract requires obtaining a license, the lessee may apply to the competent authority to obtain such license based on the registered contract in accordance with the provisions of the Finance Lease Law. The license may be issued in the name of the lessor with an indication that the leased asset is in the possession of the lessee under the contract. Unless agreed otherwise, the lessee shall bear all statutory fees for obtaining the license and renewal thereof. |
+| Expiry or Revocation of Contract: The lessee shall deliver the leased asset in the same condition agreed upon in the contract to the lessor upon termination, revocation or expiry of the contract, unless the lessee decides ownership of the leased asset according to the contract. | Usage of the Leased Asset: The lessee shall use the leased asset for the agreed purposes within the ordinary use and shall be responsible for performing the operational maintenance at his own expense according to the prevailing technical practices. The basic maintenance shall be performed by the lessor unless agreed to be performed by the lessee. In such case, the basic maintenance shall be limited to wear and tear rather than inherent defect or fault in the leased asset. The lessee shall be liable for any damage or loss resulting out from his usage of the leased asset. |
+| Usufruct: The lessee may take the necessary procedures for the protection and full usage of the leased asset at the lessor’s expense, if he fails to eliminate what prevents whole or partial use of the leased asset within the period specified in the contract or as specified under the Law. shall be refunded in case of failure to deliver the leased asset or benefit therefrom for a reason not attributed to the lessee. | <ul><li> Circumstances that Prevent the Use of the Leased Asset: The lessee shall promptly notify the lessor, in writing or electronically, of any occurrence that prevents whole or partial use of the leasedasset, or as specified under the Law. via communication means specified in the contract and subject to the applicable notification rules. If the lessor fails to eliminate what prevents whole or partial use of the leased asset within the period specified in the contract, the lessee may take the necessary actions for the protection and full usage of the leased asset at the lessor’s expense, by deducting from the subsequent lease payments. </li><li>Alterations and Modifications to the Leased Asset: The lessee shall not make any alterations or modifications to the leased asset without a written consent by the lessor. Such consent shall determine the nature and scope of such alterations or modifications and the party responsible for the cost. The lessee shall not be liable for loss of the leased asset unless caused by deliberate act or negligence on his part. If such loss is due to deliberate act or negligence on the part of the lessee, he shall be liable to pay the value of the leased asset at the time of loss save for what is covered by insurance. </li></ul> |
+| | Loss of the Leased Asset: The lessee shall be liable to pay the value of the leased asset, if he caused such loss, save for what is covered by insurance. However, the lessee may not be liable to fulfill any liabilities arising out of the loss of the leased asset in the following cases: <ul><li>If such loss is caused by the lessor, circumstances beyond his control, or due to technical deficiencies that impede the use of the leased asset.</li><li>If such loss is not attributed to deliberate act or negligence on the part of the lessee (e.g. Using the leased asset in non-agreed upon purposes).</li></ul> |
 
 31
 
-and subject to the applicable notification rules. If the lessor fails to eliminate what prevents whole or partial use of the leased asset within the period specified in the contract, the lessee may take the necessary actions for the protection and full usage of the leased asset at the lessor’s expense, by deducting from the subsequent lease payments.
-
-+ Alterations and Modifications to the Leased Asset: The lessee shall not make any alterations or modifications to the leased asset without a written consent by the lessor. Such consent shall determine the nature and scope of such alterations or modifications and the party responsible for the cost. The lessee shall not be liable for loss of the leased asset unless caused by deliberate act or negligence on his part.
-
-If such loss is due to deliberate act or negligence on the part of the lessee, he shall be liable to pay the value of the leased asset at the time of loss save for what is covered by insurance.
-
-+ Loss of the Leased Asset: The lessee shall be liable to pay the value of the leased asset, if he caused such loss, save for what is covered by insurance. However, the lessee may not be liable to fulfill any liabilities arising out of the loss of the leased asset in the following cases:
-
-If such loss is caused by the lessor, circumstances beyond his control, or due to technical deficiencies that impede the use of the leased asset.
-
-If such loss is not attributed to deliberate act or negligence on the part of the lessee 
-(e.g. Using the leased asset in non-agreed upon purposes).
-
 32 
 
-+ Differentiation of the Leased Asset: The lessor may affix any information to the leased moveable asset to protect it, including the lessor’s name and the contract registration number in the contract register.
-+ Inspection of the Leased Asset: The lessor, or his designee, may inspect the leased asset to ascertain the continuity of possession by the lessee and examine its condition, provided this is not harmful to the lessee as provided for in the Implementing Regulations of the Finance Lease Law and the terms and condition of the contract. 
+B. Rights of the Lessor under the Finance Lease Law:
 
-+ Securitization:
-
-In case of issuance of securities, against the lessor’s rights, in accordance with regulations and rules issued by the Capital Market Authority (CMA), the lessor remains obliged to forthwith disclose to SAMA any technical, commercial, legal, or other risks in relation to the contract, the underlying leased asset, or the securitization against the lessor’s rights as a whole. In case of issuance of securities, the lessor remains committed to each and every relevant supervisory requirements. 
-
-• Assignment of the Lessor’s Rights: 
-
-The lessor may assign his rights under the contract without the consent of the lessee, 
-unless the contract stipulates otherwise.
-
-Under all circumstances, the following shall be fulfilled in the event of assignment:
-- The assignment shall not cause detriment to the lessee.
-- The assignment becomes effective on the date of its registration in the Contracts Register.
-
-• No Objection Letter: 
-To ensure fairness of the conditions of the finance lease products, the lessor, pri -or to launching such products, shall obtain ‘No Objection Letter’ from SAMA.
-
-• Notification of the Lessor: 
-
-The lessee shall promptly notify the lessor (at his address) of any occurrence that prevents whole or partial use of the leased asset, in accordance with the Regulations.
-
-B. Rights of the Lessor under the Finance Lease Law: 
-
-Lessor Rights
-
-Lessor Responsibilities 
+| Lessee Rights | Lessee Responsibilities |
+|-|-|
+| Differentiation of the Leased Asset: The lessor may affix any information to the leased moveable asset to protect it, including the lessor’s name and the contract registration number in the contract register. | No Objection Letter: To ensure fairness of the conditions of the finance lease products, the lessor, prior to launching such products, shall obtain ‘No Objection Letter’ from SAMA. |
+| Inspection of the Leased Asset: The lessor, or his designee, may inspect the leased asset to ascertain the continuity of possession by the lessee and examine its condition, provided this is not harmful to the lessee as provided for in the Implementing Regulations of the Finance Lease Law and the terms and condition of the contract. | Notification of the Lessor: The lessee shall promptly notify the lessor (at his address) of any occurrence that prevents whole or partial use of the leased asset, in accordance with the Regulations. |
+| Securitization: In case of issuance of securities, against the lessor’s rights, in accordance with regulations and rules issued by the Capital Market Authority (CMA), the lessor remains obliged to forthwith disclose to SAMA any technical, commercial, legal, or other risks in relation to the contract, the underlying leased asset, or the securitization against the lessor’s rights as a whole. In case of issuance of securities, the lessor remains committed to each and every relevant supervisory requirements. | |
+| Assignment of the Lessor’s Rights: The lessor may assign his rights under the contract without the consent of the lessee, unless the contract stipulates otherwise. Under all circumstances, the following shall be fulfilled in the event of assignment: <ul><li>The assignment shall not cause detriment to the lessee.</li><li>The assignment becomes effective on the date of its registration in the Contracts Register.</li><li>The assignment shall not relieve the lessor from its obligations under the contract.</li><li>If the assignment results in change in the recipient of the lease payments, it shall be enforceable towards the lessee only from the date of notifying the lessee of the change.</li></ul>| |
 
 33
 
-- The assignment shall not relieve the lessor from its obligations under the contract.
-- If the assignment results in change in the recipient of the lease payments, it shall be enforceable towards the lessee only from the date of notifying the lessee of the change.
-
-• Sale of the Leased Asset: 
-
-If the lessor sells the leased asset to a third party, ownership of the said asset shall be transferred as encumbered by the contract. 
-
-• Termination of the Contract: 
-
-The lessor may terminate the contract and repossess the leased asset if the lessee failed to pay the due payments according to the Regulations, taking into account the interests of both parties.
+| Lessee Rights | Lessee Responsibilities |
+|-|-|
+| Sale of the Leased Asset: If the lessor sells the leased asset to a third party, ownership of the said asset shall be transferred as encumbered by the contract. | |
+| Termination of the Contract: The lessor may terminate the contract and repossess the leased asset if the lessee failed to pay the due payments according to the Regulations, taking into account the interests of both parties. | |
 
 34
 
