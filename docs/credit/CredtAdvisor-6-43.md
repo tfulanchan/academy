@@ -271,14 +271,14 @@ Disclosure of Fees, Commissions and Charges:
 
 ### 1.2.6 Rights and Responsibilities of the Cardholder:
 
-+ Cardholders may terminate the relevant credit or charge card agreement if they do not agree to any amendment, change or modification by notifying the card issuer of their desire to terminate the credit or charge card agreement within 14 calendar days after their receipt through a guaranteed mean. and after paying the outstanding amount in the card account.
++ Cardholders may terminate the relevant credit or charge card agreement if they do not agree to any amendment, change or modification by notifying the card issuer of their desire to terminate the credit or charge card agreement within 14 calendar days after their receipt through a guaranteed mean and after paying the outstanding amount in the card account.
 + The cardholder is required to keep the card issuer’s records updated with their latest address and to immediately notify the card issuer, through any reliable mean of communication, of any change in their contact details.
 + A card issuer may allow its cardholder to process a cash advance using their credit or charge cards up to a maximum of 30% of their credit limit. ATM cash withdrawals are subject to limits that pertain in the jurisdiction where the cardholder is making the cash withdrawal.
 + The cardholder has the right to, within 10 days of receiving a credit or charge card, cancel it free of change and the card issuer will not claim any fee unless the cardholder has activated the card by any possible means, such as calling the free phone or internet service and requesting the activation of the card.
 + Card issuers must regularly issue to cardholders regular SMS, email and other electronic communication awareness messages regarding paying the outstanding amount in time. 
 + A card issuer should emphasize to merchant customers that they cannot pass on or impose any additional fees or charges when cardholders use a credit or charge card in their stores.
 + Card issuers must issue an SMS message to cardholders advising when a debit or credit transaction has been processed on the account of the card.
-+ Card issuers are prohibited from increasing the term cost on an existing outstanding bal -ance as a result of delinquency or default.
++ Card issuers are prohibited from increasing the term cost on an existing outstanding balance as a result of delinquency or default.
 + Late payment fees must not exceed SAR 100, provided that the amount of the late payment fee cannot exceed the outstanding amount.
 + A card issuer must inform cardholders about outstanding transactions and request payment within a maximum of 90 days from the original date of the transaction. After that, the card issuers can only debit a cardholder’s account for payment after obtaining documented approval from the cardholder.
 + A card issuer is required to implement a clearly defined Code of Conduct for employees engaged in cards business and must obtain their acknowledgement of receipt.
@@ -289,8 +289,8 @@ Disclosure of Fees, Commissions and Charges:
 timely. Card issuers cannot charge a late payment fee unless cardholders are given at least 21 days to pay their due amount.
 
 + Cash advance fees must not exceed:
- - SAR 75 for cash advance transaction up to SAR 5000.
- - 3% of transaction amount over SAR 5000, and subject to a maximum of SAR 300. 
+  - SAR 75 for cash advance transaction up to SAR 5000.
+  - 3% of transaction amount over SAR 5000, and subject to a maximum of SAR 300. 
 
 VAT must be calculated on the fee amount.
 
@@ -308,8 +308,8 @@ Card issuers must have a comprehensive dispute resolution policy and procedures 
 5. If the credit or charge card issuer determines that an account statement error has occurred as stated by the cardholder, it shall correct the error and pay back any disputed amount and relevant term cost and fees debited on the cardholder’s account.
 6. If the card issuer determines that no account statement error has occurred, it shall mail or deliver an explanation of the reasons for believing that the error alleged by the cardholder is incorrect and provide the cardholder with copies of any documented evidence, if requested.
 7. If the credit or charge card issuer deems that a cardholder is liable for all or part of the disputed amount and relevant term cost and fees, it must:
-+ Notify the cardholder of the date when payment is due and the portion of the disputed amount and relevant term cost and fees that the cardholder is liable for.
-+ Report to a licensed credit information bureau that an account or amount is delinquent because the amount due has remained unpaid after the due date given by the credit or charge card issuer as defined in the terms and conditions of the cardholder agreement in force
+   + Notify the cardholder of the date when payment is due and the portion of the disputed amount and relevant term cost and fees that the cardholder is liable for.
+   + Report to a licensed credit information bureau that an account or amount is delinquent because the amount due has remained unpaid after the due date given by the credit or charge card issuer as defined in the terms and conditions of the cardholder agreement in force
 
 17
 
@@ -321,7 +321,7 @@ To be familiar with regulations for consumer finance
 
 ### 1.3.1 Regulations for Consumer Finance:
 
-Financing granted to individuals dealing with FIs for nonbusiness purposes i.e. unconnected with the borrower’s commercial or professional activity, generally including personal financing, overdraft facilities car financing, credit card payment, finance lease, and other related activities. Such financing includes loans for financing the purchase of goods and services for leisure, consumption or other needs of individuals as mentioned earlier, e.g. for the purchase of furniture or cover leave or education expenses.  Consumer financing includes real estate restoration financing except mortgage loans.
+Financing granted to individuals dealing with FIs for nonbusiness purposes i.e. unconnected with the borrower’s commercial or professional activity, generally including personal financing, overdraft facilities, car financing, credit card payment, finance lease, and other related activities. Such financing includes loans for financing the purchase of goods and services for leisure, consumption or other needs of individuals as mentioned earlier, e.g. for the purchase of furniture or cover leave or education expenses. Consumer financing includes real estate restoration financing except mortgage loans.
 
 SAMA issued the first update of Regulations for Consumer Finance, which included prominent changes, inter alia:
 
@@ -330,7 +330,6 @@ SAMA issued the first update of Regulations for Consumer Finance, which included
 Setting the minimum information to be indicated in consumer financing contracts including: 
 
 Advertising Consumer Financing Products: Regulations of consumer financing that should be adhered to by the creditor include:
-
 + The creditor must indicate in all product advertisements its name, logo, any identifying representation and contact details. The advertisement must disclose, in a manner that is clear to the borrower, the name and Annual Percentage Rate of the advertised product and shall not include other rates such as the term cost.
 + The creditor must provide the borrower with a written disclosure statement that provides the information required be disclosed. A disclosure statement may be part of a financing contract or an application for a consumer financing or may be an annex to the foregoing documents.
 + Sharing Information between creditors and borrowers: the creditor should provide the borrower with full and accurate information required for the financing agreement. The borrower and the guarantor must accurately and completely produce any information necessary in this regard.
