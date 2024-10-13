@@ -155,8 +155,11 @@ const config: Config = {
       };
     },
   ],
+  markdown: {
+    mermaid: true,
+  },
   themes: [
-    // ... Your other themes.
+    '@docusaurus/theme-mermaid',
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
