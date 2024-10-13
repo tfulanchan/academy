@@ -221,7 +221,7 @@ Responsible Lending Principles for Individual Customers defined “Monthly Credi
 
 + Account behavior information e.g. typical value of transactions and timeliness of repayments. 
 + A card issuer may not issue or permanently increase the credit limit of an existing creditor charge card without seeking the cardholder’s credit records from a licensed credit information bureau. Further, cardholder’s approval must be obtained.
-+ A card issuer is required to carry out proper risk management procedures including the useof credit scoring models, delinquency behavior etc., for issuance and renewal of credit orcharge cards so as to assign appropriate credit limits to the cardholder
++ A card issuer is required to carry out proper risk management procedures including the use of credit scoring models, delinquency behavior etc., for issuance and renewal of credit orcharge cards so as to assign appropriate credit limits to the cardholder
 + Where a cardholder has not made the full minimum monthly repayment on 3 consecutive occasions, the card issuer may immediately:
   + Freeze the account and treat it as a delinquent account.
   + Offer the credit advisory services free of charge to the cardholder.
@@ -867,15 +867,34 @@ Answer Reference: Section 1.1.1
 
 2. Mention the updated Regulations for Issuance and Operations of Credit and Charge Cards issued by SAMA in 2015
 
+<details>
+  <summary>Mention the updated Regulations for Issuance and Operations of Credit and Charge Cards issued by SAMA in 2015</summary>
+  <div>
+    <div>Credit card</div>
+  </div>
+</details>
+
 Answer Reference: Section 1.2.2 
 
 3. What are the aspects that shall be considered when setting credit limits for cards?
 
-Answer Reference: Section 1.2.4
+<details>
+  <summary>Answer Reference: Section 1.2.4</summary>
+  <div>
+    <div>typical value of transactions and timeliness of repayments</div>
+    <div>credit scoring models, delinquency behavior</div>
+    <div>A card issuer is not allowed to lower the minimum monthly repayment required from its cardholder below 5% of the outstanding balance as on the credit card account.</div>
+  </div>
+</details>
 
 4. What are the information that must be included in an initial disclosure as a minimum?
  
-Answer Reference: Section 1.2.5
+<details>
+  <summary>Answer Reference: Section 1.2.5</summary>
+  <div>
+    <ul><li>The initial credit limit, if it is known at the time the disclosure is made.</li><li>The APR and the annual term cost.</li><li>The nature and amounts of any recurring non-term cost charges.</li><li>The minimum payment during each payment period and the method for determining it.</li><li>Each period for which a statement of account is to be provided.</li></ul>
+  </div>
+</details>
 
 5. Explain in brief the main rights and responsibilities of the credit and charge cardholder set by SAMA.
 
