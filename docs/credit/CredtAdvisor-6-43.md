@@ -205,28 +205,29 @@ The cardholder has the right to accept or reject the replacement card. The cardh
 
 13
 
-deemed to have given their consent if they do not express an objection within 2 weeks from his noti fication, or activate the replacement credit or charge card.
+deemed to have given their consent if they do not express an objection within 2 weeks from his notification, or activate the replacement credit or charge card.
 
-A replacement card shall be treated as being of the same kind as the credit or charg e card being replaced including the typ e of card, ter ms of use, branding . Any fees and ter ms cost relating to the original c ard held by the cardholder will apply to the re placement card. The only exception will be where the cardholder has applied for and activated an upgraded card.
+A replacement card shall be treated as being of the same kind as the credit or charg e card being replaced including the type of card, terms of use, branding. Any fees and terms cost relating to the original card held by the cardholder will apply to the replacement card. The only exception will be where the cardholder has applied for and activated an upgraded card.
 
 Issuance of Supplementary Cards:
 
 The supplementary card maybe issued at the primary cardholder’s request to issue a supplementary card under their account, to their designated individual. The primary cardholder shall be liable for all liabilities incurred under the supplementary card, including any outstanding and or unpaid balances. Supplementary cards shall be issued in accordance with the Regulations for Issuance and Operations of Credit and Charge Cards.
 
-### 1.2.4 Credit Limits of Cards:1
+### 1.2.4 Credit Limits of Cards:
 
 When setting initial credit limits, a card issuer needs to apply “Responsible Financing Principles”: Issued by SAMA pursuant to Circular No. (99/46538) dated 15/05/2018 AD (02/09/1439 AH), as amended by Circular No. (1/40694) dated 24/ 05/2018 AD (09/09/1439 AH).
 
-Responsible Lending Principles for Individual Customers defined “ Monthly C redit Obligations as: Total amount pa yable b y the consumer , which is calculated on a monthly basis , as per the credit report issued by licensed credit bureaus and the consumer ’s disclosure.”
+Responsible Lending Principles for Individual Customers defined “Monthly Credit Obligations as: Total amount payable by the consumer , which is calculated on a monthly basis, as per the credit report issued by licensed credit bureaus and the consumer ’s disclosure.”
 
 + Account behavior information e.g. typical value of transactions and timeliness of repayments. 
-+ A card issuer may not issue or permanently increase the credit limit of an existing creditor charge card without seeking the cardholder’s credit records from a licensed credit information bureau. Further, cardholder’s approval must be obtained.•A card issuer is required to carry out proper risk management procedures including the useof credit scoring models, delinquency behavior etc., for issuance and renewal of credit orcharge cards so as to assign appropriate credit limits to the cardholder
++ A card issuer may not issue or permanently increase the credit limit of an existing creditor charge card without seeking the cardholder’s credit records from a licensed credit information bureau. Further, cardholder’s approval must be obtained.
++ A card issuer is required to carry out proper risk management procedures including the useof credit scoring models, delinquency behavior etc., for issuance and renewal of credit orcharge cards so as to assign appropriate credit limits to the cardholder
 + Where a cardholder has not made the full minimum monthly repayment on 3 consecutive occasions, the card issuer may immediately:
   + Freeze the account and treat it as a delinquent account.
-  + Offer the credit advisor y services free of charge to the cardholder.
-  + Work towards a mediated settlement before implementing collection and legal systemagainst the cardholder.
+  + Offer the credit advisory services free of charge to the cardholder.
+  + Work towards a mediated settlement before implementing collection and legal system against the cardholder.
 + A card issuer must deal directly with a defaulting cardholder during this time.
-+ A card issuer is not allowed to lower the minimum monthly repayment required from itscardholder below 5% of the outstanding balance as on the credit card account.
++ A card issuer is not allowed to lower the minimum monthly repayment required from its cardholder below 5% of the outstanding balance as on the credit card account.
 + The card issuer shall close the credit or charge card account upon receipt of a requestfrom a cardholder seeking such closure through an approved communication mean afterthe full and final repayment of the outstanding amount on such card.
 + The finance company shall execute consumer request by issuing a clearance letter for any purpose, including salary transfer – in case there are no outstanding financial obligations onsuch consumer, within a period not exceeding one (1) business day from the date of receivingthe request, and seven (7) business days for consumers holding credit and/or charge card.
 
