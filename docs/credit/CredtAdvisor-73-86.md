@@ -15,7 +15,7 @@ This Chapter includes about `14` out of `100` MCQs in the exam.
 
 Introduction:
 
-Accurate determination of credit risk and development of indicators and data to help measure them are instrumental to manage and control risks, thus minimizing risks. This Chapter focuses on credit risks that affect customers in addition to the financial objec -tives that are in line with customers financial position and applicable procedures. The Chapter further explains collection controls and procedures, as well as procedures for dealing with defaulting customers.
+Accurate determination of credit risk and development of indicators and data to help measure them are instrumental to manage and control risks, thus minimizing risks. This Chapter focuses on credit risks that affect customers in addition to the financial objectives that are in line with customers financial position and applicable procedures. The Chapter further explains collection controls and procedures, as well as procedures for dealing with defaulting customers.
 
 ## 4.1 Customer Credit Risk and Impact Thereon:
 
@@ -25,13 +25,13 @@ To be familiar with customer credit risk and the impact thereon.
 
 ### 4.1.1 Customer Credit Risk: 
 
-Credit decision-making in any bank or FI is influenced by a number of interrelated and complementary factors, i.e. customer-related factors and FI-related factors, as previously mentioned in the first part of Chapter II. However, we should mention some of SAMA’s functions provided to protect customer rights, as follows: 
+Credit decision-making in any bank or FI is influenced by a number of interrelated and complementary factors, i.e. customer-related factors and FI-related factors, as previously mentioned in the first part of Chapter II. However, we should mention some of SAMA’s functions provided to protect customer rights, as follows:
 
 Customer Protection:
 
 One of SAMA’s functions is to supervise licensed FIs authorized to operate in KSA including banks, insurance companies, money exchanger companies and credit information companies.
 
-SAMA has been a strong advocate of the protection of customer interests and played an important role so as to ensure that customers are dealt with professionally and fairly since the issuance of the Banking Control Law in 1966. SAMA’s role has gradually extended in line with the expansion of the financial sector. In 2005, SAMA was designated as the regulator for the insurance sector under the Cooperative Insurance Law, in 2012, it also became responsible for supervising and overseeing finance companies thus further extending SAMA’s role in strengthening customer protection. Thus, SAMA established “Customer Protection Department”, which is mainly entrusted to ensure that customers dealing with institutions get a fair treatment transparently and honestly, and obtain financial services and products easily and smoothly at suitable costs and high quality, through the following:
+SAMA has been a strong advocate of the protection of customer interests and played an important role so as to ensure that customers are dealt with professionally and fairly since the issuance of the Banking Control Law in 1966. SAMA’s role has gradually extended in line with the expansion of the financial sector. In 2005, SAMA was designated as the regulator for the insurance sector under the Cooperative Insurance Law. In 2012, it also became responsible for supervising and overseeing finance companies thus further extending SAMA’s role in strengthening customer protection. Thus, SAMA established “Customer Protection Department”, which is mainly entrusted to ensure that customers dealing with institutions get a fair treatment transparently and honestly, and obtain financial services and products easily and smoothly at suitable costs and high quality, through the following:
 + Following-up developments and trends in the financial sector and determine priorities and behaviors of financial services beneficiaries.
 + Raising FI customers’ awareness about key financial matters by providing training programs and information.
 + Developing customer protection instructions (e.g. pricing, customer communication, and quality of service provided)
@@ -69,11 +69,11 @@ Customer Rights Protection in Financing Services:
 
 76
 
-+ The finance entity shall notify the borrower in writing of any change in the term cost two months before the change takes effect if the finance contract permits such change. The amount of payments payable upon enforcement of the new term cost and details on number or duration of such payments shall be identified, if covered by such change.
++ The finance entity shall notify the borrower in writing of any change in the term cost `two months` before the change takes effect if the finance contract permits such change. The amount of payments payable upon enforcement of the new term cost and details on number or duration of such payments shall be identified, if covered by such change.
 + All fees, costs and administrative services charges to be recovered from the borrower by the finance entity must not exceed the equivalent of (1%) of the amount of financing or SAR 5,000 (five thousand Saudi Riyals), whichever is lower. In addition to the added value on fees and commissions.
 + The borrower may pay the remaining financing amount at any time before its maturity date, without incurring the term cost for the remaining period of the contract. The finance entity shall be entitled to compensation for the following:
-- Cost associated with reinvestment not exceeding the term cost for the three months following the early payment, calculated by the declining balance method.
-- Any cost required to be paid under contract to a third party by the finance entity if such cost cannot be recovered; and that shall be for the remaining period of the contract.
+  - Cost associated with reinvestment not exceeding the term cost for the three months following the early payment, calculated by the declining balance method.
+  - Any cost required to be paid under contract to a third party by the finance entity if such cost cannot be recovered; and that shall be for the remaining period of the contract.
 + The finance entity shall take the necessary procedures to ensure the confidentiality of its customers’ information and transactions. The finance entity’s employees are prohibited from disclosing any information about customers or transactions thereof even after leaving their job in such entity.
 
 77
@@ -114,15 +114,16 @@ The credit sought by customer to finance his long-term operations, which aim to 
 + Production means and equipment; 
 + Real estate, such as land, industrial, commercial, and administrative buildings.
 
-1. Commercial Credit :
+2. Commercial Credit :
 
 The customer aims to finance his business for the purpose of purchasing goods for trading.
 
-1. Consumer Credit:
+3. Consumer Credit:
 
 The customer seeks to finance his consumption activities such as buying a car or electrical appliances for a house or financing other consumption needs.
 
-1. Mortgage Finance:
+4. Mortgage Finance:
+
 The customer seeks finance to buy a property for living. The FI’s employee shall clarify the 
 available alternatives of services and products that are consistent with the customer’s ability 
 to repayment of the amount of financing and the period of repayment in order to make the right decision.
@@ -162,7 +163,6 @@ Note that the most important factor in successful performance of any credit port
 
 80
 
-+ A segregation of duties between the sale and grant process.
 + Adopting credit scoring systems.
 + Leveraging services and reports of credit bureaus. 
 + Periodic review of credit policies for more efficient credit process (At least annually) or whenever needed.
@@ -240,7 +240,7 @@ When the Risk-Weighted Assets (RWA) differ, banks must determine the impact of r
 
 The lending entity must also have clear rights on the guarantee and must be able to liquidate or legally acquire it in a timely manner. In the event of default or bankruptcy, all requirements set out in the transaction document must be met, even if the guarantor is not defaulting.
 
-SAMA announced the issuance of “Debt Collection Regulations and Procedures for Individual Customers”. In this regard, SAMA emphasized that banks and financing companies operating in KSA must strictly apply the provisions of such Regulations within the framework of dealing with customers fairly and equitably in all stages of their relationship. Such Regulations relied upon the Finance Companies Control Law issued by virtue of Royal Decree #M/51 dated 13/08/1433 AH, and the Banking Control Law issued by virtue of Royal Decree #M/5 dated 22/02/1386 AH, which authorized SAMA to regulate the finance and banking sectors in line with SAMA’s keenness to keep FIs deal with customers fairly and equitably.SAMA stated that such Regulations shall apply to banks and financing companies under its supervision, so as to regulate methods of collection and communication with individual customers and guarantors thereof in so far as to allow finance entities to adopt clear and specific procedures that maintain the rights of all parties, develop standards required to ensure all employees are professionally providing customers with the correct information about their current situation regarding default and the legal procedures that may be taken by the finance entity.
+SAMA announced the issuance of “Debt Collection Regulations and Procedures for Individual Customers”. In this regard, SAMA emphasized that banks and financing companies operating in KSA must strictly apply the provisions of such Regulations within the framework of dealing with customers fairly and equitably in all stages of their relationship. Such Regulations relied upon the Finance Companies Control Law issued by virtue of Royal Decree #M/51 dated 13/08/1433 AH, and the Banking Control Law issued by virtue of Royal Decree #M/5 dated 22/02/1386 AH, which authorized SAMA to regulate the finance and banking sectors in line with SAMA’s keenness to keep FIs deal with customers fairly and equitably. SAMA stated that such Regulations shall apply to banks and financing companies under its supervision, so as to regulate methods of collection and communication with individual customers and guarantors thereof in so far as to allow finance entities to adopt clear and specific procedures that maintain the rights of all parties, develop standards required to ensure all employees are professionally providing customers with the correct information about their current situation regarding default and the legal procedures that may be taken by the finance entity.
 
 Decisions issued by officials confirmed that banks, as requested by a retail consumer, must reschedule the debt when a compelling change in the circumstances of the retail consumer is proved, according to:
 
@@ -265,7 +265,7 @@ A bank must not:
 + Creditors must set the date of deduction in accordance with the monthly payday, provided that such date is specified in the payment schedule or as may be agreed upon with the retail customer through any of the authenticated communication means.
 + Creditors must deduct the monthly installment on the agreed date of deduction. If it is proved that a creditor does not comply with the agreed date of deduction, they shall extend the finance period by a similar term to be added at the end of the period, without any term cost or additional fees, and notify the retail customer of the same through authenticated communication means.
 + A bank, as requested by a retail customer, must reschedule the debt when a compelling change in the circumstances of the retail customer is proved, without granting any new loan, charging extra fees or changing the term cost. A bank must carry out the rescheduling within a period not exceeding 30 days from the date the individual customer is provided with the necessary documents. This excludes asset-backed finance contracts.
-+ A bank, as requested by a retail customer, must reschedule the debt in the case that voluntary changes in a retail consumer’s circumstances are proved, with the potentiality to change the term cost but without charging additional fees. Debt rescheduling must be carried out within a period not more than 30 days from the date the necessary documents are supplied by the individual customer. This excludes asset-backed finance contracts.Chapter
++ A bank, as requested by a retail customer, must reschedule the debt in the case that voluntary changes in a retail consumer’s circumstances are proved, with the potentiality to change the term cost but without charging additional fees. Debt rescheduling must be carried out within a period not more than 30 days from the date the necessary documents are supplied by the individual customer. This excludes asset-backed finance contracts.
 
 85
 
@@ -277,7 +277,7 @@ To be familiar with the procedures for dealing with defaulting customers
 
 ### 4.5.1 Procedures for Dealing with Defaulting Customers:
 
-A creditor must be entitled to take legal actions against any defaulting customer at the competent judicial authorities, and such customer must be notified in the event of default for more than three consecutive months or five separate months throughout the finance period. The last attempt to contact such customer must be through their national address. It shall also:
+A creditor must be entitled to take legal actions against any defaulting customer at the competent judicial authorities, and such customer must be notified in the event of default for `more than three consecutive months` or `five separate months` throughout the finance period. The last attempt to contact such customer must be through their national address. It shall also:
 + Upon the issuance of a judicial order or ruling against a defaulting customer, a creditor must comply with the said order or ruling, unless both parties (creditor and retail customer) agree otherwise (for example without limitation, settlement of debt between both parties, debt rescheduling, etc.).
 + A creditor must take into consideration the circumstances of any defaulting individual customer that was issued an enforceable judicial ruling against them in favor of the creditor, when providing the necessary guarantees by making available the option of debt rescheduling, with the potentiality to change the term cost and without charging additional fees.
 
@@ -289,32 +289,110 @@ Answer the following questions and check your answer in the corresponding sectio
 
 1. Mention the most prominent functions of SAMA to maintain customer rights.
 
-Answer Reference: Section 1.1.4
+Answer Reference: Section 4.1.1
+
+<details>
+  <summary>Mention the most prominent functions of SAMA to maintain customer rights.</summary>
+  <div>
+     <div>
+     Coordinate and monitor daily compliance with the AML policy and applicable laws, regulations and rules
+     </div>
+  </div>
+</details>
 
 2. Specify the financial objectives that are consistent with the customer’s financial position.
 
-Answer Reference: Section 1.2.4
+Answer Reference: Section 4.2.1
+
+<details>
+  <summary>Specify the financial objectives that are consistent with the customer’s financial position.</summary>
+  <div>
+     <ul>
+     <li>Investment Credit</li>
+     <li>Commercial Credit</li>
+     <li>Consumer Credit</li>
+     <li>Mortgage Finance</li>
+     </div>
+  </div>
+</details>
 
 3. Mention the customer’s main financial objectives.
  
-Answer Reference: Section 1.2.4
+Answer Reference: Section 4.2.1
+
+<details>
+  <summary>Mention the customer’s main financial objectives.</summary>
+  <div>
+     <ul>
+     <li>Investment Credit</li>
+     <li>Commercial Credit</li>
+     <li>Consumer Credit</li>
+     <li>Mortgage Finance</li>
+     </ul>
+  </div>
+</details>
 
 4. What is meant by Raising Customer Financial Awareness?
 
 Answer Reference: Section 1.2.4
 
+<details>
+  <summary>What is meant by Raising Customer Financial Awareness?</summary>
+  <div>
+     <ul>
+     <li>Familiarize customers with the development and diversity of banking services, and how such developments can achieve material benefits for them so as to cut costs against obtaining such services</li>
+     <li>Provide different financial services and products</li>
+     <li>Clarify advantages of such products or services, customer’s capability and circumstances</li>
+     </ul>
+  </div>
+</details>
+
 5. Explain in brief Debt Collection Regulations and Procedures for Individual Customers issued by SAMA.
 
-Answer Reference: Section 1.3.4
+Answer Reference: Section 4.3.1
+
+<details>
+  <summary>Explain in brief Debt Collection Regulations and Procedures for Individual Customers issued by SAMA.</summary>
+  <div>
+     <div>Allow finance entities to adopt clear and specific procedures that maintain the rights of all parties, develop standards required to ensure all employees are professionally providing customers with the correct information about their current situation regarding default and the legal procedures that may be taken by the finance entity.</div>
+  </div>
+</details>
 
 6. What are the compelling circumstances where banks must reschedule the customer’s debt?
 
-Answer Reference: Section 1.3.4
+Answer Reference: Section 4.3.1
+
+<details>
+  <summary>What are the compelling circumstances where banks must reschedule the customer’s debt?</summary>
+  <div>
+     <div></div>
+  </div>
+</details>
 
 7. What are the main acts that SAMA prohibited banks to do in the collection procedures from customer accounts?
 
-Answer Reference: Section 1.3.4
+Answer Reference: Section 4.3.1
+
+<details>
+  <summary>What are the main acts that SAMA prohibited banks to do in the collection procedures from customer accounts?</summary>
+  <div>
+  <ul>
+     <li>Deduct amount from consumer's account without any judicial order or ruling or without the retail consumer’s prior consent</li>
+     <li>Deduct more than one monthly installment for each loan within a single pay cycle</li>
+  </ul>
+  </div>
+</details>
 
 8. Explain the procedures for dealing with defaulting customers.
 
-Answer Reference: Section 1.4.4
+Answer Reference: Section 4.4.1
+
+<details>
+  <summary>Explain the procedures for dealing with defaulting customers.</summary>
+  <div>
+  <ol>
+  <li>Notify the customer for more than three consecutive months or five separate months throughout the finance period</li>
+  <li>Upon the issuance of a judicial order/ruling against a defaulting customer, a creditor must comply with the order/ruling, unless both parties agree otherwise</li>
+  </ol>
+  </div>
+</details>
