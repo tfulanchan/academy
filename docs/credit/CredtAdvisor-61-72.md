@@ -34,81 +34,20 @@ to the MENAFATF, suspicious transactions can be identified by the following indi
 
 63
 
-Indicator Category
-1. A Customer Due Diligence Indicators:
-2. Beneficial Owners Indicators:
-3. Account Activities Indicators:
-4. Indicators on Information Provided by Other Entities:Indicator Description
-
-The customer intentionally conceals important data and information such as his/her actual place of residence.
-
-The customer presents false data that is hard to verify such as refusing to submit the original documents especially those related to identity verification.
-
-The customer presents suspicious information such as an inoperative telephone number
-
-The customer abnormally inquiries about applicable laws for identifying unusual transactions, suspicion criteria, or reporting procedures of suspicious transactions.
-
-The non-matching between the value or repetition of customer operations with the information available.
-
-The beneficial owner deals through several persons and the existence of several authorized persons to sign on one account.
-
-The beneficial owner uses bank accounts of other persons.
-
-The beneficial owner belongs to an organization known of criminal activity.
-
-Accounts receive cash deposits or multiple transfers, and then closed after a short period or become dormant.
-
-Large or repeated cash deposits that are not consistent with customer activity during a given period.
-
-Extremely large cash deposits made by a person or company without using other payment methods.
-
-Cash deposits in a number of open accounts with fake identity from different branches of the same bank.
-
-Large cash deposits that are transferred within a short period to another party that are not closely related to the activity of the transferring customer.
-
-Dividing large cash amounts and depositing them in smaller amounts.
-
-There is a criminal record for the suspect.
-
-Sudden and unreasoned change in the living standard of the suspect and his family.
-
-The purchase of real estate/jewelry/cars/other assets of high value.
-
-Forgery is proved in documents or deeds.
+| Indicator Category | Indicator Description |
+|-|-|
+| 1. A Customer Due Diligence Indicators:| The customer intentionally conceals important data and information such as his/her actual place of residence. <br/> The customer presents false data that is hard to verify such as refusing to submit the original documents especially those related to identity verification. <br/> The customer presents suspicious information such as an inoperative telephone number <br/> The customer abnormally inquiries about applicable laws for identifying unusual transactions, suspicion criteria, or reporting procedures of suspicious transactions. <br/> The non-matching between the value or repetition of customer operations with the information available. |
+| 2. Beneficial Owners Indicators: | The beneficial owner deals through several persons and the existence of several authorized persons to sign on one account. <br/> The beneficial owner uses bank accounts of other persons. <br/> The beneficial owner belongs to an organization known of criminal activity. |
+| 3. Account Activities Indicators: | Accounts receive cash deposits or multiple transfers, and then closed after a short period or become dormant. <br/>Large or repeated cash deposits that are not consistent with customer activity during a given period.<br/>Extremely large cash deposits made by a person or company without using other payment methods.<br/>Cash deposits in a number of open accounts with fake identity from different branches of the same bank.<br/>Large cash deposits that are transferred within a short period to another party that are not closely related to the activity of the transferring customer.<br/>Dividing large cash amounts and depositing them in smaller amounts. |
+| 4. Indicators on Information Provided by Other Entities: | There is a criminal record for the suspect.<br/>Sudden and unreasoned change in the living standard of the suspect and his family.<br/>The purchase of real estate/jewelry/cars/other assets of high value.<br/>Forgery is proved in documents or deeds. |
 
 64
 
-
-5. Indicators on The Cross Border Transportation of Funds:
-6. Indicators on Financial Transactions:
-7. Indicators on the Attitude of the Suspect:Conducting transactions from a country known for trafficking, promotion, growing, or production of drugs or suffers political unrest.
-
-Using documentary credits and other means of commercial transfer to move funds between countries where business activity is not compatible with customer’s normal activity.
-
-Obtaining large sums that does not commensurate with business turnover, and then making transfers to offshore accounts.
-
-Frequently requesting travelers’ checks, foreign withdrawals or any issued transferable instruments.
-Cashing at close intervals or conducting foreign exchange withdrawals especially if they were originated abroad.
-
-Purchase or sale of securities under unusual circumstances or conditions such as purchase of shares in a losing companypurchase securities that do not match with customer income.
-
-Large or unusual cash transfers of securities.
-
-Purchase and sale of securities without a clear purpose or at times that seem inappropriate or unusual.
-
-Customers who pay loans before the deadline especially if the payment is in cash.
-
-Customers who request loans against assets of unknown source.
-
-Avoid direct contact with the bank employees such as constantly dealing through ATMs and avoiding the bank officials whenever they try to contact him.
-
-Signs of confusion and nervousness appear on the suspect or his representative during the execution of the transaction.
-
-The suspect owns several bank accounts without clear justification.
-
-The suspect or his representative inquires a lot about the AML details.
-
-The suspect or his representative requests the cancellation of the transaction as soon as the bank employees try to obtain missing important information.
+| Indicator Category | Indicator Description |
+|-|-|
+| 5. Indicators on The Cross Border Transportation of Funds: | Conducting transactions from a country known for trafficking, promotion, growing, or production of drugs or suffers political unrest. <br/> Using documentary credits and other means of commercial transfer to move funds between countries where business activity is not compatible with customer’s normal activity.<br/>Obtaining large sums that does not commensurate with business turnover, and then making transfers to offshore accounts.<br/>Frequently requesting travelers’ checks, foreign withdrawals or any issued transferable instruments.<br/>Cashing at close intervals or conducting foreign exchange withdrawals especially if they were originated abroad. |
+| 6. Indicators on Financial Transactions: | Purchase or sale of securities under unusual circumstances or conditions such as purchase of shares in a losing companypurchase securities that do not match with customer income.<br/>Large or unusual cash transfers of securities.<br/>Purchase and sale of securities without a clear purpose or at times that seem inappropriate or unusual.<br/>Customers who pay loans before the deadline especially if the payment is in cash.<br/>Customers who request loans against assets of unknown source. |
+| 7. Indicators on the Attitude of the Suspect: | Avoid direct contact with the bank employees such as constantly dealing through ATMs and avoiding the bank officials whenever they try to contact him.<br/>Signs of confusion and nervousness appear on the suspect or his representative during the execution of the transaction.<br/>The suspect owns several bank accounts without clear justification.<br/>The suspect or his representative inquires a lot about the AML details.<br/>The suspect or his representative requests the cancellation of the transaction as soon as the bank employees try to obtain missing important information. |
 
 65
 
