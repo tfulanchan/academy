@@ -468,8 +468,7 @@ Answer Reference: Section 5.3.3
 <li>Adhere to the information security policy and procedures</li>
 <li>Provide authorized persons with information according to the required limits</li>
 <li>Use envelopes, postal services or emails marked as confidential</li>
-<ul>
-</div>
+</ul></div>
 </details>
 
 8. Mention the means that the FI must provide to receive reports of actual or potential violations.
