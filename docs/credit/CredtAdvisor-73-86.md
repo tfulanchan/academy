@@ -312,7 +312,7 @@ Answer Reference: Section 4.2.1
      <li>Commercial Credit</li>
      <li>Consumer Credit</li>
      <li>Mortgage Finance</li>
-     </div>
+     </ul>
   </div>
 </details>
 
