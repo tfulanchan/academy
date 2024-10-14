@@ -241,15 +241,15 @@ Operational risks can result from internal or external factors, and can cause a 
 
 A study involved a five-year audit in some international banks, found that 60% of embezzlements were carried out by bank employees, 20% of which by managers, and 85% of bank losses caused by employees’ dishonesty.
 
-1. Risks Caused by Employee Errors:
+2. Risks Caused by Employee Errors:
 
 Risks that may be unintended, but result from inexperience or negligence in some cases. Banks encounter such risks due to lack of competencies, expertise, and institutions concerned with training and qualifications necessary for workforce.
 
-1. Forgery Risks:
+3. Forgery Risks:
 
 Involve forgery and misuse of checks and various documents. A statistical study estimates that forgery crimes constitute 10-18% of bank losses.
 
-1. Banknote Counterfeiting:
+4. Banknote Counterfeiting:
 
 An official US authority estimated the amount of counterfeit dollar banknotes outside USA
 
@@ -257,28 +257,27 @@ An official US authority estimated the amount of counterfeit dollar banknotes ou
 
 whose forgery cannot be detected by experts, to be around $1 billion. This indicates the size of such issue, having in mind the size of other counterfeit currencies, which may require less techniques than the dollar.
 
-1. Theft and Burglary:
+5. Theft and Burglary:
 
 Some financial institutions may face theft and robbery due to weak procedures or failure to update control systems and procedures when trading cash.
 
-1. Cybercrime Risks:
+6. Cybercrime Risks:
 
 Such risks become more evident amid the extensive use of various banking transactions techs, including credit cards, point of sale cards, the internet, smart phones, and automated retail operations e.g. paying bills, as well as electronic exchange of information and ATMs.
 
-1. Risks arising from errors, defects, malfunctions or insufficiency in technical hardware and software used in banks.
+7. Risks arising from errors, defects, malfunctions or insufficiency in technical hardware and software used in banks.
 
-1. Legal Risks: Some legal risks can be anticipated, including:
+8. Legal Risks: Some legal risks can be anticipated, including:
+   - Risks arising from errors in contracts or other documentation.
+   - Risks arising from ineffectiveness or corruption of a country’s judicial ecosystem.
+   - Risks arising from delay in taking legal procedures in a timely manner.
+   - Risks arising from violating some laws or binding agreements, such as violating AML/CTF laws, or laws restricting currency exchange or foreign exchange in some countries or binding boycott laws.
 
-- Risks arising from errors in contracts or other documentation.
-- Risks arising from ineffectiveness or corruption of a country’s judicial ecosystem.
-- Risks arising from delay in taking legal procedures in a timely manner.
-- Risks arising from violating some laws or binding agreements, such as violating AML/CTF laws, or laws restricting currency exchange or foreign exchange in some countries or binding boycott laws.
-
-1. Poor Planning:
+9. Poor Planning:
 
 This occurs due to missing information during procedures which reveals incorrect results, thus exposing the whole process to risks.
 
-1. Uncontrollable Events (Force Majeure):
+10. Uncontrollable Events (Force Majeure):
 
 Such risks often occur due to external factors e.g. political or climatic issues, which affect performance of work. and thus endanger the financial institution’s position.
 
