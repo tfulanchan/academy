@@ -859,6 +859,13 @@ Answer the following questions and check your answer in the corresponding sectio
 
 Answer Reference: Section 1.1.1
 
+<details>
+  <summary>Mention the main financing products and services provided by banks and financing companies in the Kingdom of Saudi Arabia to retail customers.</summary>
+  <div>
+    <div>Personal loans, mortgages, credit cards, and auto financing.</div>
+  </div>
+</details>
+
 2. Mention the updated Regulations for Issuance and Operations of Credit and Charge Cards issued by SAMA in 2015
 
 Answer Reference: Section 1.2.2 
