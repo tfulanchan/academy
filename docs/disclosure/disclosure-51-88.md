@@ -746,6 +746,10 @@ The fund manager must, at the end of each quarter, disclose information about th
 
 ## Questions of Chapter Five
 
+1. What are the regulatory controls when companies repurchase their shares from capital market?
+
+Answer reference: Section 5-1-1-1
+
 <details>
   <summary>What are the regulatory controls when companies repurchase their shares from capital market?</summary>
   <div>
@@ -753,7 +757,7 @@ The fund manager must, at the end of each quarter, disclose information about th
  </div>
 </details>
 
-1. What are the regulatory controls when companies repurchase their shares from capital market?
+2. Explain the regulatory controls when companies repurchase its preferred stock
 
 Answer reference: Section 5-1-1-1
 
@@ -764,7 +768,7 @@ Answer reference: Section 5-1-1-1
  </div>
 </details>
 
-2. Explain the regulatory controls when companies repurchase its preferred stock
+3. In accordance with Article 22, Article of the executive controls and procedures issued in implementation of the companies’ law for listed joint stock companies, as amended by the authority’s board resolution No. 4-122-2020 dated 3/4/1442 AH corresponding to 11/18/2020 AD, what are the statutory controls when selling treasury shares?
 
 Answer reference: Section 5-1-1-1
 
@@ -777,7 +781,7 @@ Answer reference: Section 5-1-1-1
   </div>
 </details>
 
-3. In accordance with Article 22, Article of the executive controls and procedures issued in implementation of the companies’ law for listed joint stock companies, as amended by the authority’s board resolution No. 4-122-2020 dated 3/4/1442 AH corresponding to 11/18/2020 AD, what are the statutory controls when selling treasury shares?
+4. According to Article 47 of the executive regulations and procedures issued in implementation of the Companies Law for listed joint stock companies, as amended by the authority’s board resolution No. 4-122-2020 dated 3/4/1442 AH corresponding to 11/18/2020 AD, what is meant by “The indicative value of the right”?
 
 Answer reference: Section 5-1-1-1
 
@@ -788,9 +792,9 @@ Answer reference: Section 5-1-1-1
   </div>
 </details>
 
-4. According to Article 47 of the executive regulations and procedures issued in implementation of the Companies Law for listed joint stock companies, as amended by the authority’s board resolution No. 4-122-2020 dated 3/4/1442 AH corresponding to 11/18/2020 AD, what is meant by “The indicative value of the right”?
+5. List five of the related parties (as defined by the corporate governance regulations)
 
-Answer reference: Section 5-1-1-1
+Answer reference: Section 5-1-1-2
 
 <details>
   <summary>List five of the related parties (as defined by the corporate governance regulations)</summary>
@@ -806,9 +810,11 @@ Answer reference: Section 5-1-1-1
   </div>
 </details>
 
-5. List five of the related parties (as defined by the corporate governance regulations)
+6. List five of the objectives of the corporate governance regulations
 
 Answer reference: Section 5-1-1-2
+
+86
 
 <details>
   <summary>List five of the objectives of the corporate governance regulations</summary>
@@ -826,11 +832,9 @@ Answer reference: Section 5-1-1-2
   </div>
 </details>
 
-6. List five of the objectives of the corporate governance regulations
+7. Explain how the corporate governance regulations address the right of the company's shareholder to obtain information?
 
 Answer reference: Section 5-1-1-2
-
-86
 
 <details>
   <summary>Explain how the corporate governance regulations address the right of the company's shareholder to obtain information?</summary>
@@ -840,7 +844,7 @@ Answer reference: Section 5-1-1-2
   </div>
 </details>
 
-7. Explain how the corporate governance regulations address the right of the company's shareholder to obtain information?
+8. Mention five of the functions of the extraordinary general assembly
 
 Answer reference: Section 5-1-1-2
 
@@ -860,7 +864,7 @@ Answer reference: Section 5-1-1-2
   </div>
 </details>
 
-8. Mention five of the functions of the extraordinary general assembly
+9. Mention five of the functions of the Ordinary General Assembly
 
 Answer reference: Section 5-1-1-2
 
@@ -880,7 +884,7 @@ Answer reference: Section 5-1-1-2
   </div>
 </details>
 
-9. Mention five of the functions of the Ordinary General Assembly
+10. What is meant by "Discouragement of independence". Name five of these discouragements
 
 Answer reference: Section 5-1-1-2
 
@@ -898,7 +902,7 @@ Answer reference: Section 5-1-1-2
   </div>
 </details>
 
-10. What is meant by "Discouragement of independence". Name five of these discouragements
+11.  List five of what should be included in the report of the board of directors
 
 Answer reference: Section 5-1-1-2
 
@@ -917,7 +921,7 @@ Answer reference: Section 5-1-1-2
   </div>
 </details>
 
-11.  List five of what should be included in the report of the board of directors
+12.  What are the considerations that must be taken into account when the ordinary general assembly appoints the company’s auditor based on the nomination of the board of directors?
 
 Answer reference: Section 5-1-1-2
 
@@ -928,9 +932,9 @@ Answer reference: Section 5-1-1-2
   </div>
 </details>
 
-12.  What are the considerations that must be taken into account when the ordinary general assembly appoints the company’s auditor based on the nomination of the board of directors?
+13.  According to Article 13 of capital market Institutions regulations, what are the controls related to " The Controllers"?
 
-Answer reference: Section 5-1-1-2
+Answer reference: Section 5.2
 
 <details>
   <summary>According to Article 13 of capital market Institutions regulations, what are the controls related to "The Controllers"?</summary>
@@ -939,9 +943,11 @@ Answer reference: Section 5-1-1-2
   </div>
 </details>
 
-13.  According to Article 13 of capital market Institutions regulations, what are the controls related to " The Controllers"?
+14.  Article 14: Secondary market activity specifies that a person who has purchased securities through a private placement referred to here as “the transferor” may not offer those securities, or sell them to a person referred to here as “the transferee”, unless that offer or sale is through capital market, provided that one of the requirements is met. What are these possible requirements?
 
-Answer reference: Section 5.2
+Answer reference: Section 3-5
+
+87
 
 <details>
   <summary>Article 14: Secondary market activity specifies that a person who has purchased securities through a private placement referred to here as “the transferor” may not offer those securities, or sell them to a person referred to here as “the transferee”, unless that offer or sale is through capital market, provided that one of the requirements is met. What are these possible requirements?</summary>
@@ -956,11 +962,9 @@ Answer reference: Section 5.2
   </div>
 </details>
 
-14.  Article 14: Secondary market activity specifies that a person who has purchased securities through a private placement referred to here as “the transferor” may not offer those securities, or sell them to a person referred to here as “the transferee”, unless that offer or sale is through capital market, provided that one of the requirements is met. What are these possible requirements?
+15.  According to Article 23: Conditions for a Public Offering of Shares in the main market “TASI”, mention five of the necessary conditions for a public offering of shares.
 
 Answer reference: Section 3-5
-
-87
 
 <details>
   <summary>According to Article 23: Conditions for a Public Offering of Shares in the main market “TASI”, mention five of the necessary conditions for a public offering of shares.</summary>
@@ -977,7 +981,7 @@ Answer reference: Section 3-5
   </div>
 </details>
 
-15.  According to Article 23: Conditions for a Public Offering of Shares in the main market “TASI”, mention five of the necessary conditions for a public offering of shares.
+16. What is meant by "The structural changes"?
 
 Answer reference: Section 3-5
 
@@ -994,9 +998,9 @@ Answer reference: Section 3-5
   </div>
 </details>
 
-16. What is meant by "The structural changes"?
+17. Mention the most prominent provisions contained in the rules regarding registration conditions and procedures, in addition to a statement of the continuing obligations of the chartered accountant.
 
-Answer reference: Section 3-5
+Answer reference: Section 5-4
 
 <details>
   <summary>Mention the most prominent provisions contained in the rules regarding registration conditions and procedures, in addition to a statement of the continuing obligations of the chartered accountant.</summary>
@@ -1012,7 +1016,7 @@ Answer reference: Section 3-5
   </div>
 </details>
 
-17. Mention the most prominent provisions contained in the rules regarding registration conditions and procedures, in addition to a statement of the continuing obligations of the chartered accountant.
+18. What are the conditions for the continuation of the registration of the registered accounting office and the registered chartered accountant at all times?
 
 Answer reference: Section 5-4
 
@@ -1033,9 +1037,9 @@ Answer reference: Section 5-4
   </div>
 </details>
 
-18. What are the conditions for the continuation of the registration of the registered accounting office and the registered chartered accountant at all times?
+19. List five of the formal requirements for disclosure.
 
-Answer reference: Section 5-4
+Answer reference: Section 5-5-1
 
 <details>
   <summary>List five of the formal requirements for disclosure.</summary>
@@ -1052,9 +1056,9 @@ Answer reference: Section 5-4
   </div>
 </details>
 
-19. List five of the formal requirements for disclosure.
+20. What are the procedures and instructions for companies whose shares are listed in capital market, whose accumulated losses amounted to 50% or more of their capital?
 
-Answer reference: Section 5-5-1
+Answer reference: Section 5-5-2
 
 <details>
   <summary>What are the procedures and instructions for companies whose shares are listed in capital market, whose accumulated losses amounted to 50% or more of their capital?</summary>
@@ -1063,9 +1067,5 @@ Answer reference: Section 5-5-1
     <div>The market adds a mark next to the company's name on the market's website, symbolizing that the company's accumulated losses have reached 50% of its capital, immediately after the announcement referred to in clause (a) of this article is issued. </div>
   </div>
 </details>
-
-20. What are the procedures and instructions for companies whose shares are listed in capital market, whose accumulated losses amounted to 50% or more of their capital?
-
-Answer reference: Section 5-5-2
 
 88
