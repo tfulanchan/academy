@@ -393,7 +393,7 @@ Subject to the provisions of this part, a private offeror of securities is not r
 
 Article 14: Secondary market activity
 
-- A. person who has purchased securities through a private offering referred to herein as “the Chapter transferor” may not offer such securities or sell them to a person referred to herein as “the transferee” unless such offer or sale is made by a capital market institution, provided that fulfill one of the following requirements:
+- A. person who has purchased securities through a private offering referred to herein as “the transferor” may not offer such securities or sell them to a person referred to herein as “the transferee” unless such offer or sale is made by a capital market institution, provided that fulfill one of the following requirements:
 
 1. The price for those securities shall not exceed two hundred thousand Saudi Riyals or its
    equivalent.
@@ -471,7 +471,7 @@ For the continuation of registration, the registered accounting firm and the reg
 
 Article 12: Notice requirements
 
-- A. The registered accounting firm must notify the authority in writing within seven days from the date of any change in the information submitted to the authority on the accounting firm Chapter registration application form regarding the name of the registered accounting firm, its address, website address, e-mail or the names of the partners in the office.
+- A. The registered accounting firm must notify the authority in writing within seven days from the date of any change in the information submitted to the authority on the accounting firm registration application form regarding the name of the registered accounting firm, its address, website address, e-mail or the names of the partners in the office.
 - B. The registered accounting firm must notify the authority in writing immediately upon filing a lawsuit against the registered accounting firm, any of its partners, executive managers, or audit managers if the subject matter of the lawsuit is related to the office’s business or the practice of the audit profession.
 - C. The authority may, upon receipt of a notification under clauses (a) or (b) of this article, do the following:
 
@@ -520,7 +520,7 @@ Any notice to the market and any public disclosure made by the issuer must be in
 
 The Arabic language shall be the approved language for explaining and interpreting any notice or disclosure provided by the issuer. In the event of any discrepancy between the Arabic and English versions, the Arabic version shall prevail.
 
-Any public disclosure must include information about the identity of the issuer and any Chapter persons related to the disclosure, the subject, date, and timing under the implementing regulations and market rules.
+Any public disclosure must include information about the identity of the issuer and any persons related to the disclosure, the subject, date, and timing under the implementing regulations and market rules.
 
 The issuer must be able to provide the market, upon a written request, with any of the following information related to any public disclosure:
 
@@ -737,7 +737,7 @@ The fund manager must, at the end of each quarter, disclose information about th
 1. List of issuers which shares constitute the largest ten investments in the fund portfolio their percentages as it is in the first day of the quarter.
 2. The percentage of total fees and charges of the concerned quarter to the average of the net assets value of the fund.
 3. The amount and percentage of profits distributed in the quarter in question if any.
-4. The fund’s manager investments amount and percentage to the net assets value as it is at Chapter the end of the concerned quarter.
+4. The fund’s manager investments amount and percentage to the net assets value as it is at the end of the concerned quarter.
 5. The amount and percentage of the concerned quarter’s dealing expenses to the public fund’s average net assets value.
 6. Standards and indicators to measures the risks.
 7. Fund’s performance standards and indicators. (Article 71 of Investment Funds Regulations).
