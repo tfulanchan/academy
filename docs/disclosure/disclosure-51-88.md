@@ -415,13 +415,13 @@ For a public offering of shares, the following are required:
 
 1. The issuer must be a joint stock company.
 2. The application for registration and offering of securities shall be accompanied by a prospectus, except for cases that do not require the existence of a prospectus under these rules.
-3. When applying for securities registration and offering, the issuer must have practiced the main activity by itself or through one or more subsidiaries during at least the previous three fiscal years.
-4. When applying for securities registration and offering, the issuer must have prepared its audited financial statements for at least the previous three fiscal years, provided that they were prepared by the accounting standards approved by the Saudi Organization for Chartered and Professional Accountants.
+3. When applying for securities registration and offering, the issuer must have practiced the main activity by itself or through one or more subsidiaries during at least the previous `three fiscal years`.
+4. When applying for securities registration and offering, the issuer must have prepared its audited financial statements for at least the previous `three fiscal years`, provided that they were prepared by the accounting standards approved by the Saudi Organization for Chartered and Professional Accountants.
 5. If the period included in the most recent audited financial statements ended more than (6) months before the expected date of approval of the application for registration and offering of securities, reviewed interim financial statements must be submitted for any period from the end date of the period included in the most recent audited financial statements to the expected date of approval of the application for registration and offering of securities or audited annual financial statements (as applicable). In all cases, the period included in the
 
 70
 
-latest reviewed preliminary financial statements submitted to the authority must not have ended more than (6) months from the date of approval of the application for registration and offering of securities.
+  latest reviewed preliminary financial statements submitted to the authority must not have ended more than (6) months from the date of approval of the application for registration and offering of securities.
 
 6. If the issuer made any fundamental structural changes, it may not apply for the registration and offering of its securities until after the lapse of at least one fiscal year from the date of the implementation of the relevant change.
 
@@ -551,7 +551,7 @@ Disclosure timing:
 
 Disclosure forms:
 
-- The issuer must comply with the disclosure forms mentioned in the instructions forcompanies’ announcements when preparing the disclosure or report required under the law, its implementing regulations, or market rules.
+- The issuer must comply with the disclosure forms mentioned in the instructions for companies’ announcements when preparing the disclosure or report required under the law, its implementing regulations, or market rules.
 
 76
 
@@ -563,7 +563,7 @@ In an effort by the Capital Market Authority to develop the capital market in th
 
 Procedures and instructions for companies whose shares are listed in the market and whose accumulated losses amounted to 20% or more of their capital: The company’s accumulated losses amounting to 20% or more, and no more than 35% of its capital.
 
-The company must disclose to the public immediately and without delay and by an independent announcement when its accumulated losses reach 20% or more and not more than 35% of its capital, provided that the announcement includes the amount of accumulated losses and their percentage of the capital And the main reasons that led to these losses, noting in the in the announcement that these procedures and instructions will be undertaken thereon, if the disclosure required under this clause coincides with the announcement of the initial or annual financial results, the company is exempted from disclosing a separate announcement if it included it in the announcement of the initial or annual financial results.
+The company must disclose to the public immediately and without delay and by an independent announcement when its accumulated losses reach 20% or more and not more than 35% of its capital, provided that the announcement includes the amount of accumulated losses and their percentage of the capital And the main reasons that led to these losses, noting in the announcement that these procedures and instructions will be undertaken thereon, if the disclosure required under this clause coincides with the announcement of the initial or annual financial results, the company is exempted from disclosing a separate announcement if it included it in the announcement of the initial or annual financial results.
 
 The market adds a mark next to the company's name on the market's website, symbolizing that the company's accumulated losses have reached 20% or more and less than 35% of its capital immediately upon the issuance of the announcement referred to in clause (a) of this Article.
 
@@ -615,7 +615,7 @@ Learning objective: be familiar with the rules and regulations related to invest
 
 A group of documents issued by several fund managers, in order to achieve the degree of diversity that provides him with adequate protection against the fluctuation of the market value of the components of that assortment, and this is expressed by saying that one does not put all his eggs in one basket, or what is expressed in the concept of investment in the field of diversification policy.
 
-The small size of the savings is not the only reason for the reluctance of investors to invest directly in securities. Some investors have abundant financial resources that enable them to purchase various securities. However, they are reluctant to do so either because they do not have the experience and knowledge to manage such a variety or because they do not have enough time to meet the needs of these investors, companies specialized in building and managing formations (funds) of securities and investment funds were established, allowing them to buy several shares in those portfolios, commensurate with their available financial resources.
+The small size of the savings is not the only reason for the reluctance of investors to invest directly in securities. Some investors have abundant financial resources that enable them to purchase various securities. However, they are reluctant to do so either because they do not have the experience and knowledge to manage such a variety or because they do not have enough time to meet the needs of these investors. Companies specialized in building and managing formations (funds) of securities and investment funds were established, allowing them to buy several shares in those portfolios, commensurate with their available financial resources.
 
 ### 5-6-1 Funds disclosures
 
@@ -667,14 +667,14 @@ The Fund manager must maintain at least the following information in the registe
 
 when applicable, or any other identification as determined by the authority;
 
-1. The nationality of the unitholder;
-2. The date on which the unitholder was registered in the register;
-3. Details of all transactions in relation to units conducted by each unitholder;
+3. The nationality of the unitholder;
+4. The date on which the unitholder was registered in the register;
+5. Details of all transactions in relation to units conducted by each unitholder;
 
 81
 
-1. The running balance of the number of units (including fractions of a unit) held by each unitholder.
-2. Any restriction or right attached to units owned by the unitholder.
+6. The running balance of the number of units (including fractions of a unit) held by each unitholder.
+7. Any restriction or right attached to units owned by the unitholder.
 
 The register of unitholders must be made available for inspection by the authority at its request. An extract of the register of unitholders must be provided by the Fund manager to any unitholder free of charge (at no coast) upon request (such extract must to show all the information that is relevant to the requesting unitholder only). The Fund manager must update the register of unitholder immediately to reflect the information referred to in Paragraph (c) of this article. (Article 12 of Investment Funds Regulations).
 
@@ -704,7 +704,7 @@ Without prejudice to clause (b) of this article, the public fund manager must no
 
 The fund manager must not invest the public fund›s money and assets in any type of assets that would result in the fund assuming, guaranteeing, endorsing or otherwise become directly or contingently liable for any obligation or indebtedness of any person. Any investment fund into which the public fund’s assets and money are invested must be in another public fund, which is registered with the authority, or a public investment fund outside KSA, which is subject to an equivalent regulatory oversight in a jurisdiction recognized by the authority as having equivalent regulation. The authority shall have the discretion to assess whether the jurisdiction has regulatory standards and requirements at least equivalent to those of the authority.
 
-The borrowing of a public fund must not exceed (%10) of its net asset value The public fund’s money and assets must not be used to acquire any asset that involves the assumption of any liability, which is unlimited. (Article 40 of Investment Funds Regulations).
+The borrowing of a public fund must not exceed (10%) of its net asset value. The public fund’s money and assets must not be used to acquire any asset that involves the assumption of any liability, which is unlimited. (Article 40 of Investment Funds Regulations).
 
 83
 
@@ -724,7 +724,7 @@ The fund manager must prepare the annual reports that includes (audited financia
 
 Annual reports must be made available to the public no later than `70 days` from the end of the period to which the report relates in such locations and by such means as specified in the terms and conditions and information memorandum as well as in the fund manager’s website and on the Saudi Exchange’s website (Saudi Tadawul).
 
-The interim reports must be prepared and made available to the public within `35 days` from the end of the period to which the report relates in such locations and by such means as specified in the terms and conditions, the information memorandum as well as in the fund manager website and on the Saudi Exchange’s website (Saudi Tadawul). A feeder fund or fund of funds must make its fund reports available within (21) days after the release of the fund reports of the fund(s) in which it invests.
+The interim reports must be prepared and made available to the public within `35 days` from the end of the period to which the report relates in such locations and by such means as specified in the terms and conditions, the information memorandum as well as in the fund manager website and on the Saudi Exchange’s website (Saudi Tadawul). A feeder fund or fund of funds must make its fund reports available within `21 days` after the release of the fund reports of the fund(s) in which it invests.
 
 The fund manager shall make available for inspection by unitholders the current net asset value of the public funds to which it is fund manager free of charge, and all historical net asset value at the registered offices of the fund manager.
 
@@ -732,7 +732,7 @@ The fund manager shall make available for inspection by unitholders the current 
 
 The fund manager must provide each unitholder with details of the net asset value of the units owned by it and the record of transactions in fund units made by it within (15) days of each transaction in units of the public fund by the relevant unitholder. The fund manager must send to the unitholder (including former unitholder during the year that statement was prepared) an annual statement summarizing their transactions in units in the public fund during the course of a financial year within (30) days of the end of the financial year, this statement must include the outline of service fees, expenses, and charges discounted from the unitholder, and specified in the fund’s terms and conditions and information memorandum, in addition to details of all the violations of investments restrictions described in these regulations, the terms and condition, or the information memorandum.
 
-The fund manager must, at the end of each quarter, disclose information about the public fund on its website and on the Capital’s Market website (Saudi Tadawul) or by any other means specified by the Authority. The information must include, at least, the followings at least:
+The fund manager must, at the end of each quarter, disclose information about the public fund on its website and on the Capital’s Market website (Saudi Tadawul) or by any other means specified by the Authority. The information must include, at least, the followings:
 
 1. List of issuers which shares constitute the largest ten investments in the fund portfolio their percentages as it is in the first day of the quarter.
 2. The percentage of total fees and charges of the concerned quarter to the average of the net assets value of the fund.
