@@ -242,7 +242,7 @@ Formation of the Audit Committee:
 - A- The Audit Committee shall be formed by a decision of the company’s ordinary general assembly from shareholders or others, provided that at least one independent member shall be among the committee members, and the committee shall not include any of the executive board members, and the number of the Audit Committee members shall not be less than three and not more than five, including a member specialized in financial and accounting affairs.
 - B- Chairman of the Audit Committee shall be an independent member.
 - C- The company’s general assembly, based on a proposal by the board of directors, shall issue the audit committee’s work regulations, provided that these regulations include the committee’s work controls and procedures, its tasks, the rules for appointing its members, how to nominate members, the period of their membership, their remuneration, and the mechanism for temporarily appointing its members, if either of the committee’s positions becomes vacant.
-- D- However works or has worked during the past two years in the executive or financial management of the company, or with the company’s auditor, may not be a member of the audit committee. (Corporate Governance Regulations Article 54).
+- D- Whoever works or has worked during the past two years in the executive or financial management of the company, or with the company’s auditor, may not be a member of the audit committee. (Corporate Governance Regulations Article 54).
 
 Publication of Nomination Announcement:
 
@@ -277,7 +277,7 @@ The Board of Directors’ report shall include a presentation of its operations 
 63
 
 7. The means and foundations relied on by the Board of Directors in evaluating its performance, the performance of its committees and members, the external party that carried out the evaluation and its relationship with the company, if any.
-8. Disclosing the remunerations of the members of the Board of Directors and the Executive Management as stipulated in Article ninety three of these regulations.
+8. Disclosing the remunerations of the members of the Board of Directors and the Executive Management as stipulated in Article 93 of these regulations.
 9. Any penalty, sanction, precautionary measure or precautionary restriction imposed on the company by the authority or any supervisory, regulatory or judicial authority, with a statement of the reasons for the violation, the competent authority, and ways to remedy the violation and avoid its occurrence in the future.
 10. Results of the annual review of the effectiveness of the company’s internal control procedures, in addition to the audit committee’s opinion on the efficiency of the company’s internal control system.
 11. The Audit Committee's recommendation to appoint an internal auditor in the company in the event of his absence.
