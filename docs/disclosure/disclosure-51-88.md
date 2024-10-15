@@ -54,7 +54,7 @@ Article 18:
 
 A. If the company purchases its preferred shares, those preferred shares shall be considered canceled upon completion of the purchase process, and the company shall take the necessary legal procedures accordingly.
 
-B. A company intending to purchase a specific class of its preferred shares shall make a public offer to all holders of that class of shares in a manner achieving justice for the holders of this class of shares in accordance with the provisions of article one hundred and forty-eight of the Companies Law.
+B. A company intending to purchase a specific class of its preferred shares shall make a public offer to all holders of that class of shares in a manner achieving justice for the holders of this class of shares in accordance with the provisions of Article 148 of the Companies Law.
 
 Article 22:
 
@@ -67,7 +67,7 @@ Paragraph 4: Treasury shares may not be sold during the following periods:
 
 Article 40:
 
-The board of directors shall include in its annual report submitted to the company’s general assembly the percentage of dividends distributed to shareholders during the different periods of the fiscal year, in addition to the percentage of the proposed dividends to be distributed at the end of the fiscal year and the total of these dividends.
+The board of directors shall include in its annual report submitted to the company’s general assembly `the percentage of dividends distributed to shareholders during the different periods of the fiscal year`, in addition to `the percentage of the proposed dividends to be distributed at the end of the fiscal year` and the `total of these dividends`.
 
 Article 41:
 
@@ -88,7 +88,7 @@ The value of these shares will not appear in the portfolios of registered shareh
 Note: The capital shall be increased
 
 1. Issuance of preferred shares
-2. 2- Stock dividends (bonus shares)
+2. Stock dividends (bonus shares)
 
 Article 47:
 
@@ -96,7 +96,7 @@ The indicative value of the shares reflects the difference between the market va
 
 54
 
-5-1-1-2 Corporate Governance
+#### 5-1-1-2 Corporate Governance
 
 Learning objective:
 
@@ -104,9 +104,7 @@ To be aware of the basic concept of corporate governance
 
 Corporate governance is one of the important matters for companies, whether locally or externally, in this era, since financial crises and their effects and the financial matters occurred previously and faced by the global economy made it necessary to set a framework for supervision and control over the control of companies through a clear framework recognized locally and globally. This made it necessary for the regulatory authorities to undertake legislation and issue a framework for governance according to the special laws of companies in the countries, as well as according to the existing standards applied by the management of companies, which are in line with the internal market.
 
-The importance of corporate governance revolves around its focus on activating and monitoring the role of the board of directors in companies, as well as developing and strengthening internal control systems and following up the workflow and its implementation in a way preserving the company’s stability and protects the interests of shareholders and stakeholders. No doubt that would only be through applying certain principles ensuring that the company applies a clear approach that ensures the stability of its financial liability, the growth of its profits, and the continuation of the company’s fulfillment of its obligations, in accordance with the rules, regulations and laws issued by the Capital
-
-Market Authority and the Saudi Exchange (Tadawul).
+The importance of corporate governance revolves around its focus on activating and monitoring the role of the board of directors in companies, as well as developing and strengthening internal control systems and following up the workflow and its implementation in a way preserving the company’s stability and protects the interests of shareholders and stakeholders. No doubt that would only be through applying certain principles ensuring that the company applies a clear approach that ensures the stability of its financial liability, the growth of its profits, and the continuation of the company’s fulfillment of its obligations, in accordance with the rules, regulations and laws issued by the Capital Market Authority and the Saudi Exchange (Tadawul).
 
 Corporate Governance Regulations in the Kingdom of Saudi Arabia
 
@@ -130,7 +128,7 @@ Related parties (as defined in the Corporate Governance Regulations):
 
 Paragraphs (9) and (10) of this definition are excluded from advice and directions that are professionally provided by a person authorized to do so.
 
-Cumulative voting: a method of voting to select the board members. Each shareholder is Chapter granted voting power in proportion to shares he holds; as he has the right to vote for one candidate or to divide the votes among the candidates he chooses without repeating the votes.
+Cumulative voting: a method of voting to select the board members. Each shareholder is granted voting power in proportion to shares he holds; as he has the right to vote for one candidate or to divide the votes among the candidates he chooses without repeating the votes.
 
 Objectives of the Corporate Governance Regulations:
 
@@ -190,7 +188,7 @@ Except for the functions of the Extraordinary General Assembly, the Ordinary Gen
 11. Maintaining the company’s statutory reserve whenever it reaches (30%) of the paid-up capital, deciding to distribute the amount exceeds this percentage to the company’s shareholders in the fiscal years in which the company fails to achieve net profits.
 12. Using the company’s agreed reserve not allocated for a specific purpose, provided that such use shall be based on a proposal by the Board of Directors and in ways benefiting the company or shareholders.
 13. Setting aside and disposing of other reserves for the company, other than the statutory reserve and the consensual reserve.
-14. Deducting amounts from the company’s net profits for the establishment of social institutions for the company’s workers to assist the existing such institutions, as stated in article one hundred and twenty-nine of the Companies Law.
+14. Deducting amounts from the company’s net profits for the establishment of social institutions for the company’s workers to assist the existing such institutions, as stated in Article 129 of the Companies Law.
 15. Approving the sale of more than (50%) of the company's assets, whether in one transaction or several transactions within twelve months as from the date of the first sale transaction. If the sale of these assets falls within the functions of the extraordinary general assembly, the approval of the Extraordinary General Assembly shall be obtained (Corporate Governance Regulations Article 12).
 
 58
@@ -199,8 +197,8 @@ Shareholders Assembly:
 
 - A. The Ordinary General Assembly of Shareholders shall be held in accordance with the conditions and circumstances stipulated in the Companies Law, its Executive Regulations, and the Company’s Articles of Association.
 - B. The Ordinary General Assembly shall convene at least once a year during the six months following the end of the company's financial year.
-- C. Shareholders’ general or private assemblies shall be held at the invitation of the Board of Directors, in accordance with the conditions stipulated in the Companies Law, its Executive Regulations, and the Company’s Articles of Association. The Board of Directors shall invite the Ordinary General Assembly to a meeting if so requested by the auditor, the audit committee, or a number of shareholders whose ownership represents at least (5%) of the company’s capital. The auditor may call the assembly to convene, if the board of directors failed to call for within thirty days as from the date of the auditor's request.
-- D. The date, place and agenda of the general assembly meeting shall be announced at least twenty-one days before the date, and the invitation shall be published on the website of the stock market (Tadawul Saudi Arabia), the company's website and in a daily newspaper distributed in the area where the company's headquarters locates. In addition, the company may invite the general and private assemblies of its shareholders by means of modern technology.
+- C. Shareholders’ general or private assemblies shall be held at the invitation of the Board of Directors, in accordance with the conditions stipulated in the Companies Law, its Executive Regulations, and the Company’s Articles of Association. The Board of Directors shall invite the Ordinary General Assembly to a meeting if so requested by the auditor, the audit committee, or a number of shareholders whose ownership represents at least (5%) of the company’s capital. The auditor may call the assembly to convene, if the board of directors failed to call for within `(30) days` as from the date of the auditor's request.
+- D. The date, place and agenda of the general assembly meeting shall be announced at least `(21) days` before the date, and the invitation shall be published on the website of the stock market (Tadawul Saudi Arabia), the company's website and in a daily newspaper distributed in the area where the company's headquarters locates. In addition, the company may invite the general and private assemblies of its shareholders by means of modern technology.
 - E. The company may amend the agenda of the general assembly during the period between the publication of the announcement referred to in paragraph (D) of this article and the date of the general assembly meeting, provided that the company shall issue such announcement in accordance with the conditions set forth in Paragraph (D) of this Article.
 - F. Shareholders shall have the opportunity to actively participate and vote in the General Assembly meetings. The meetings of the shareholders’ general assemblies may be held and the shareholder may participate in their deliberations and vote on their decisions by means of modern technology, in accordance with the regulatory controls and procedures issued in implementation of the Companies Law for Listed Joint Stock Companies.
 - G. The board of directors shall facilitate the participation of the largest number of shareholders in the General Assembly meeting, including choosing the appropriate place and time.
@@ -211,18 +209,18 @@ Shareholders Assembly:
 Appointment of Board Members:
 
 - A. The company’s articles of association specify the number of the board members, provided that it shall not be less than three and not more than eleven.
-- B. The general assembly elects the board members for the period stipulated in the company’s articles of association, provided that it shall not exceed three years, and they may be re- elected unless the company's articles of association provide otherwise.
+- B. The general assembly elects the board members for the period stipulated in the company’s articles of association, provided that it shall not exceed (3) years, and they may be re-elected unless the company's articles of association provide otherwise.
 - C. A board member not be a board member of more than five joint stock companies listed on the market at the same time.
-- D. The company shall notify the authority of the names of the board members, their jobs and their membership descriptions within five days from the commencement date of the Board of Directors’ session or as from the date of their appointment – whichever is earlier – and any changes to their membership within five working days from the date of these changes. (Corporate Governance Regulations Article 17)
+- D. The company shall notify the authority of the names of the board members, their jobs and their membership descriptions within five days from the commencement date of the Board of Directors’ session or as from the date of their appointment – whichever is earlier – and any changes to their membership within (5) working days from the date of these changes. (Corporate Governance Regulations Article 17)
 
 Requirements of independence:
 
 - A. The independent board member shall be able to exercise the functions of expressing opinions and voting on decisions objectively and impartially and for the benefit of the shareholders only, in a manner that helps the board of directors to take sound decisions that contribute to achieving the interests of the company.
 - B. The board of directors shall conduct an annual evaluation of the extent to which the member's independence has been achieved and to ensure that there are no relationships or circumstances that affect or may affect the member or any conflict of interest now or in the future.
-- C. the following cases are independence deficiencies for an independent board member - for example, but not limited to - the following:
+- C. The following cases are independence deficiencies for an independent board member - for example, but not limited to - the following:
 
-1. A member owns five percent or more of the company's shares or another company of its group, or he is related to the person who owns this percentage.
-2. To be a representative of a legal person who owns five percent or more of the company's shares or another company of its group.
+1. A member owns 5% or more of the company's shares or another company of its group, or he is related to the person who owns this percentage.
+2. To be a representative of a legal person who owns 5% or more of the company's shares or another company of its group.
 3. A member related to any of the board members in the company or in another company of its group.
 4. He is related to any of the senior executives of the company or any other company of its group.
 5. To be a board member in another company of the group of the company nominated for membership in its board of directors.
@@ -235,7 +233,7 @@ Requirements of independence:
 9. To participate in a business that would compete against the company, or to trade in a branch of the company's activity.
 10. He shall have spent more than nine consecutive or separate years as a member of the company’s board of directors
 
-- D- The works and contracts concluded with the board member to meet his personal needs and requires to obtain a license from the ordinary general assembly, shall not be considered as an interest that negates the independence of the board member, if these works and contracts are carried out under the same conditions and terms applied by the company with all contractors and dealers and within the company’s usual activity, unless the nominations committee deems otherwise. (Article 20) Corporate Governance Regulations.
+- D- The works and contracts concluded with the board member to meet his personal needs and requires to obtain a license from the ordinary general assembly, shall not be considered as an interest that negates the independence of the board member, if these works and contracts are carried out under the same conditions and terms applied by the company with all contractors and dealers and within the company’s usual activity, unless the nominations committee deems otherwise. (Article 20 Corporate Governance Regulations.)
 
 61
 

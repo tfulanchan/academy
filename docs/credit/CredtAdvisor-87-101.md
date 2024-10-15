@@ -184,7 +184,7 @@ Duties and Responsibilities of FI Staff:
 - Immediately report all suspicious transactions carried out by Stakeholders or the Financial Institution Staff by the concerned department to the AML/CTF department, which in turn reports such transactions to the Financial Investigation Unit at the Presidency of State Security.
 - Not carry implication to inform Stakeholders or staff that their activities that have been reported, will be reported to competent authorities or under investigation by the FI are suspected.
 
-1. Dealing with Bribery and Corruption:
+2. Dealing with Bribery and Corruption:
 
 Bribery is one of the most serious crimes causing corruption in societies. Therefore, the FI must condemn and fight bribery and corruption in all forms in any dealing or interaction with Stakeholders. The FI must also educate staff about the gravity and adverse effects of bribery and corruption on the FI and the society as a whole.
 
