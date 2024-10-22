@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 [The Instructions for Shariah Governance in Capital Market Institutions](https://cma.org.sa/en/RulesRegulations/Regulations/Pages/details.aspx?code=11)

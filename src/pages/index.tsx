@@ -26,9 +26,7 @@ function Clock(props) {
       <div className="container">
         <div>
           <h2>{date.toLocaleDateString()}</h2>
-          <h2>
-            {date.toLocaleTimeString()}
-          </h2>
+          <h2>{date.toLocaleTimeString()}</h2>
           <h3>
             {
               date
@@ -43,6 +41,18 @@ function Clock(props) {
             to="/docs/disclosure/"
           >
             الإفصاح
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/credit/"
+          >
+            credit
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/islamic/"
+          >
+            |
           </Link>
         </div>
       </div>

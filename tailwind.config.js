@@ -23,5 +23,11 @@ module.exports = {
       colors: {},
     },
   },
-  plugins: [],
+  variants: {
+    listStyleType: ['responsive', 'hover', 'focus'],
+    listStylePosition: ['responsive', 'hover', 'focus'],
+  },
+  corePlugins: {
+    preflight: false,
+  }
 };

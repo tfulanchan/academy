@@ -52,7 +52,7 @@ Means to claim the disclosure of appropriate and adequate information, and not o
 
 This means that the financial reports shall disclose everything that makes such reports are not misleading to the stakeholders and are not exposing them to accountability for non-disclosure. Precautionary disclosure aims to protect users of disclosure information, in particular the ordinary investor who has a limited ability to use financial information.
 
-3-2 Degree of Mandatory Disclosure
+## 3-2 Degree of Mandatory Disclosure
 
 Learning Objective: Be familiar with distinguishing between mandatory and voluntary disclosure and the impact of each of them on the company's relationship with decision-makers
 
@@ -62,11 +62,7 @@ This disclosure is subject to the provisions of the regulations issued by the su
 
 ### 3-2-2 Voluntary Disclosure
 
-Voluntary disclosure may be defined as the processes of disclosing additional information in excess of the limit required by regulations and standards applied by corporate managements to meet the needs of the parties using financial reports. The management's keenness is to
-
-3
-
-provide financial and non-financial information related to decision makers.
+Voluntary disclosure may be defined as the processes of disclosing additional information in excess of the limit required by regulations and standards applied by corporate managements to meet the needs of the parties using financial reports. The management's keenness is to provide financial and non-financial information related to decision makers.
 
 Since the voluntary disclosure is a serious attempt by companies to provide additional information that may not be stipulated by legislation, financial laws or accounting standards, financial laws or accounting standards in order to follow the principle of transparency, in order to follow the principle of transparency, and with the aim of providing as much information as possible to users of financial statements, in order not to resort to other sources of information that may be misleading. Therefore, this type of disclosure is known as informative disclosure, as the scope of the accounting disclosure is no longer limited to a mere disclaimer of the company's management, rather, expanded to include providing the largest amount of accounting information that increases the degree of confidence between management and users of financial statements.
 
@@ -125,9 +121,7 @@ The methods used to transfer information in the disclosure process aim at making
 
 An essential tool for disseminating the company's financial information includes several types, as shown below:
 
-3-4-2-1 Supplementary Reports and Schedules: This method is used to disclose some
-
-additional information and details that are difficult but impossible to be disclosed in the financial statements. This method may be used through notes and footnotes, or in the form of independent reports, etc.
+3-4-2-1 Supplementary Reports and Schedules: This method is used to disclose some additional information and details that are difficult but impossible to be disclosed in the financial statements. This method may be used through notes and footnotes, or in the form of independent reports, etc.
 
 3-4-2-2 Report of the Chairman of the Board of Directors, and this report is considered complementary to the financial statements, without which it is difficult to interpret a lot of the financial statements’ information.
 
@@ -177,7 +171,7 @@ The use of clear terms and the amount of detail in the information is undoubtedl
 
 ### 3-5-3 Information in brackets:
 
-Brackets are used in the financial statements in the case of some items that cannot be understood from their titles only, without elaborating on details and prolongation. Such items can be explained as brief notes in brackets, such as the method of evaluating a specific item / mortgaged assets or making a brief explanation and other observations.
+Brackets are used in the financial statements in the case of some items that cannot be understood from their titles only, without elaborating on details and prolongation. Such items can be explained as brief notes in brackets, such as the method of evaluating a specific item/mortgaged assets or making a brief explanation and other observations.
 
 ### 3-5-4 Footnotes notes
 

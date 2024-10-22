@@ -27,7 +27,14 @@
   @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap');
-
+  /* html,
+  body {
+    height: 100%;
+    direction: rtl;
+    font-family: "Nunito Sans", "Iran Sans";
+    font-weight: 400;
+    color: var(--ifm-color-primary);
+  } */
    h1 {
      font-family: 'Source Sans 3', 'Readex Pro';
      font-weight: bold;
@@ -203,7 +210,7 @@
    }
  
    :root {
-     --ifm-color-primary: #58c4dc;
+     --ifm-color-primary: #fc4503;
      --ifm-color-primary-dark: #29784c;
      --ifm-color-primary-darker: #277148;
      --ifm-color-primary-darkest: #205d3b;
@@ -216,7 +223,7 @@
  
    /* For readability concerns, you should choose a lighter palette in dark mode. */
    [data-theme='dark'] {
-     --ifm-color-primary: #58c4dc;
+     --ifm-color-primary: #fcca03;
      p {
       color: #f6f7f9;
      }
