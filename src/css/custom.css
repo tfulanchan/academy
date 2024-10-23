@@ -20,6 +20,10 @@
     font-weight: 400;
     color: var(--ifm-color-primary);
   } */
+
+  .row {
+    direction: rtl
+}
    h1 {
      font-family: 'Source Sans 3', 'Readex Pro';
      font-weight: bold;
