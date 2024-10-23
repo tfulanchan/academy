@@ -42,12 +42,14 @@ function Clock(props) {
           >
             الإفصاح
           </Link>
+          <br/>
           <Link
             className="button button--secondary button--lg"
             to="/docs/credit/"
           >
             credit
           </Link>
+          <br/>
           <Link
             className="button button--secondary button--lg"
             to="/docs/islamic/"
