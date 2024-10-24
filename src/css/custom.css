@@ -28,7 +28,8 @@
      font-family: 'Source Sans 3', 'Readex Pro';
      font-weight: bold;
      font-size: 2.5rem;
-     @apply bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text;     
+     /* @apply bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text      */
+     @apply bg-gradient-to-r from-yellow-400 via-orange-500 to-red-600 inline-block text-transparent bg-clip-text     
    }
  
    h2 {
