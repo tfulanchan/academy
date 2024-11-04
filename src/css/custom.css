@@ -22,7 +22,7 @@
   } */
 
   .row {
-    direction: rtl;
+    /* direction: rtl; */
   }
   h1 {
     font-family: "Source Sans 3", "Readex Pro";
