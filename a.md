@@ -1,6 +1,7 @@
 # Cryptographic Concepts Diagrams
 
 ## Diagram 1: Symmetric Encryption
+
 ```mermaid
 graph LR
     A[Message] --> B[Key] --> C[HMAC Tag]
@@ -9,7 +10,6 @@ graph LR
     D --> E[Receiver]
     C --> E
 
-```mermaid
 graph LR
     A[Alice] -- Generate Public/Private Pair --> B{Public Key}
     C[Bob] -- Generate Public/Private Pair --> D{Public Key}
